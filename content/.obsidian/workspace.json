@@ -2308,7 +2308,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/5.5 Explain types and purposes of audits and assessments..md",
+                "file": "Comptia Security+ Certification/2.1 Compare and contrast common threat actors and motivations..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -2323,22 +2323,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5.5 Explain types and purposes of audits and assessments."
-            }
-          },
-          {
-            "id": "10b394944673843d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "content/.trash/vulnerability management 1.md",
-                "bFile": "content/.trash/vulnerability management 1.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: vulnerability management 1"
+              "title": "2.1 Compare and contrast common threat actors and motivations."
             }
           },
           {
@@ -2486,7 +2471,7 @@
             }
           }
         ],
-        "currentTab": 97
+        "currentTab": 96
       }
     ],
     "direction": "vertical"
@@ -2543,8 +2528,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dfb0495a3a4e7f5a",
@@ -2678,8 +2662,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0c602dc460bfa1d8",
+  "active": "9cd2278b255f042f",
   "lastOpenFiles": [
+    "Comptia Security+ Certification/5.5 Explain types and purposes of audits and assessments..md",
+    "Comptia Security+ Certification/3.3 Compare and contrast concepts and strategies to protect data..md",
     "Definitions/availability.md",
     "Definitions/black hat hackers.md",
     "Definitions/bloatware.md",
@@ -2705,8 +2691,6 @@
     "Definitions/vulnerability response and remediation.md",
     "Definitions/vulnerability database.md",
     "Definitions/vulnerability analysis.md",
-    "Definitions/vishing.md",
-    "Definitions/virus.md",
     "Definitions and Concepts",
     "Comptia Security+ Certification/Monologue",
     "Definitions",
