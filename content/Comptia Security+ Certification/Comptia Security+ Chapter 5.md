@@ -20,4 +20,7 @@ aliases:
 
 [[vulnerability management]]
 [[scan perspectives]]
-continue from 108
+[[CVSS]]
+[[CVE]]
+
+Read over exam essentials again
