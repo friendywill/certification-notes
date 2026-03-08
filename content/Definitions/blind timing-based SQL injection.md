@@ -1,0 +1,1 @@
+similar to [[blind content-based SQL injection]], but instead adds a delay to check whether the application is vulnerable to SQL injection. This can be used as an attack, exploiting the timing parameters of the system.

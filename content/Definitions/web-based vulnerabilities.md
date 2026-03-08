@@ -1,2 +1,2 @@
-- [[SQL injections SQLI]]
-- [[XSS]]
+- [[code injection attacks]]
+- [[XSS Cross (X) Site-Scripting]]

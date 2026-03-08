@@ -1,4 +1,4 @@
 where websites are tested for vulnerabilities, especially:
-- [[XSS]]
-- [[SQL injections]]
+- [[XSS Cross (X) Site-Scripting]]
+- [[SQL injections SQLI]]
 - [[CSRF]]

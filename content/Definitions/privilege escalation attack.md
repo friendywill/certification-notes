@@ -1,0 +1,1 @@
+where a user uses some flaw to gain higher privileges than they otherwise would

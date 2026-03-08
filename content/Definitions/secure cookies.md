@@ -1,0 +1,1 @@
+where a cookie has the SECURE attribute, ensuring it must be [[data encryption|encrypted]]

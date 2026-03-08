@@ -1,0 +1,1 @@
+similar to [[code injection attacks]] but where the injection executes an OS command

@@ -23,7 +23,21 @@ aliases:
 [[devops]]
 [[devsecops]]
 [[secure coding practices]]
-continue from 149
+[[API security]]
+[[fuzzing]]
+[[injection vulnerabilities]]
+[[password vulnerabilities]]
+[[session attacks]]
+[[cookie stealing and manipulation]]
+[[unvalidated redirects]]
+[[insecure direct object references]]
+[[directory traversal attack]]
+[[file inclusion attack]]
+[[privilege escalation attack]]
+[[XSS Cross (X) Site-Scripting]]
+
+
+continue from 167
 # Survey
 Think about what could be included.
 Read the introduction / summary.

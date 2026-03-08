@@ -1,6 +1,6 @@
 - [[application injection]]
 - [[[buffer overflow]]
 - [[replay attack]]
-- [[privilege escalation]]
+- [[privilege escalation attack]]
 - [[forgery]]
-- [[directory traversel]]
+- [[directory traversal attack]]

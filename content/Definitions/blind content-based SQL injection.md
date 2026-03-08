@@ -1,0 +1,1 @@
+testing whether an application is vulnerable to an injection, by moving around parameters to see if the attack is possible or not

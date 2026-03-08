@@ -1,0 +1,1 @@
+where an object is given some path for location, EG URL of https://site.com/example?document=1, and https://site.com/example?document=2, where improper authorization mechanisms do not prevent unauthorized access to these documents.

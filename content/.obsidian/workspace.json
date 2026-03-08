@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de8b7a5b7a784ab9",
+        "id": "a4d69d252c08ffed",
         "type": "tabs",
         "children": [
           {
-            "id": "96129c6f59df5354",
+            "id": "6aba426afdc0e3f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 6"
+              "title": "New tab"
             }
           }
         ]
@@ -222,34 +208,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "96129c6f59df5354",
+  "active": "6aba426afdc0e3f7",
   "lastOpenFiles": [
-    "Definitions/secure coding practices.md",
-    "Definitions/open worldwide application security project OWASP.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 6.md",
-    "Definitions/devops.md",
-    "Definitions/devsecops.md",
-    "Comptia Security+ Certification/1.0 General Security Concepts 12%.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 5.md",
-    "Comptia Security+ Certification/4.3 Explain various activities associated with vulnerability management..md",
-    "Definitions/software development lifecycle SDLC.md",
-    "Definitions/5.1 Summarize elements of effective security governance..md",
-    "Definitions/policies.md",
-    "Definitions/4.7 Explain the importance of automation and orchestration related to secure operations..md",
-    "Definitions/other considerations of automation and scripting.md",
-    "Definitions/benefits of automation and scripting.md",
-    "Definitions/use cases of automation and scripting.md",
-    "Definitions/identification methods.md",
-    "Definitions/4.1 Given a scenario, apply common security techniques to computing resources..md",
-    "Definitions/application security.md",
-    "Comptia Security+ Certification/2.4 Given a scenario, analyze indicators of malicious activity.md",
-    "Definitions/application attacks.md",
+    "Definitions/XSS Cross (X) Site-Scripting.md",
+    "Definitions/stored or persistent XSS.md",
+    "stored/persistent XSS.md",
+    "stored",
+    "Definitions/privilege escalation attack.md",
+    "Definitions/file inclusion attack.md",
+    "Definitions/directory traversal attack.md",
+    "Definitions/insecure direct object references.md",
+    "Definitions/unvalidated redirects.md",
+    "Definitions/cookie stealing and manipulation.md",
+    "Definitions/secure cookies.md",
+    "Definitions/session replay attack.md",
+    "Definitions/session attacks.md",
+    "Definitions/password vulnerabilities.md",
+    "Definitions/password attacks.md",
     "Comptia Security+ Certification/2.3 Explain various types of vulnerabilities..md",
     "Definitions/web-based vulnerabilities.md",
     "Definitions/application vulnerabilities.md",
-    "Definitions/race conditions.md",
-    "Comptia Security+ Certification/5.0 Security Program Management and Oversight 20%.md",
-    "Comptia Security+ Certification/4.0 Security Operations 28%.md",
+    "Definitions/injection vulnerabilities.md",
+    "Definitions/command injection attacks.md",
+    "Definitions/code injection attacks.md",
+    "Definitions/SQL injections SQLI.md",
+    "Definitions/blind timing-based SQL injection.md",
+    "Definitions/blind content-based SQL injection.md",
+    "Definitions/SQL injections.md",
+    "Definitions/web application scanner.md",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",
     "Comptia Security+ Certification/Monologue",
@@ -262,7 +249,6 @@
     "Security  701/Domains",
     "Comptia Security+ Certification",
     "Self-Management/Objectives",
-    "Self-Management/Goals",
     "Untitled.canvas"
   ]
 }
