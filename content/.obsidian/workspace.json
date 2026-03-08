@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
+                "file": "Definitions and Concepts/access restrictions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 1"
+              "title": "access restrictions"
             }
           },
           {
@@ -439,21 +439,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "41fae150110d5373",
+  "active": "9cd2278b255f042f",
   "lastOpenFiles": [
-    "Definitions/worms.md",
-    "Definitions/virus.md",
-    "Definitions/virus variates.md",
-    "Definitions/rootkit.md",
-    "Definitions/trojans.md",
-    "Definitions/spyware.md",
-    "Definitions/ransomware.md",
-    "Definitions/malware.md",
-    "Definitions/malware types.md",
-    "Definitions/logic bomb.md",
-    "Definitions/keyloggers.md",
-    "Definitions/fileless virus.md",
-    "Definitions/bloatware.md",
+    "Definitions and Concepts/worms.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
+    "Definitions and Concepts/virus.md",
+    "Definitions and Concepts/virus variates.md",
+    "Definitions and Concepts/rootkit.md",
+    "Definitions and Concepts/trojans.md",
+    "Definitions and Concepts/spyware.md",
+    "Definitions and Concepts/ransomware.md",
+    "Definitions and Concepts/malware.md",
+    "Definitions and Concepts/malware types.md",
+    "Definitions and Concepts/logic bomb.md",
+    "Definitions and Concepts/keyloggers.md",
+    "Definitions and Concepts/fileless virus.md",
+    "Definitions and Concepts/bloatware.md",
     "Definitions",
     "Comptia Security+ Certification/Comptia Security+ Chapter 3.md",
     "Definitions and Concepts/threat vectors.md",
@@ -467,7 +468,6 @@
     "Definitions and Concepts/assessing threat intelligence.md",
     "Definitions and Concepts/attack surfaces.md",
     "Definitions and Concepts/availability.md",
-    "Definitions and Concepts/black hat hackers.md",
     "Definitions and Concepts",
     "attachments/Pasted image 20250130181104.png",
     "attachments/Pasted image 20250130180921.png",
