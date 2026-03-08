@@ -1,0 +1,1 @@
+encrypts data and sets requirements for the state of the [[trusted platform module TPM]] before decryption

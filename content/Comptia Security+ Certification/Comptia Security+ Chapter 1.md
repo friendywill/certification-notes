@@ -50,8 +50,8 @@ What is [[data exfiltration]]?
 What are [[security controls]]? How is it related to a [[gap analysis]]?
 How are [[security control categories]] determined to be [[security control categories]]?
 What are the considerations with [[data sovereignty]]?
-What are the two different ways [[data loss prevention]] works?
-What are the mechanisms of action for [[data loss prevention]]?
+What are the two different ways [[data loss prevention DLP]] works?
+What are the mechanisms of action for [[data loss prevention DLP]]?
 What is [[digital rights management (DRM)]]?
 What is [[data minimisation]]?
 What are the different methods for [[data minimisation]] and how do they work?

@@ -84,9 +84,9 @@ What is [[data exfiltration]]?
 - Where data is lost to some adversary.
 What are [[security controls]]? How is it related to a [[gap analysis]]?
 - Security controls are measures put in place to mitigate risks from occurring, where they close the gap on the gap analysis.
-What are the two different ways [[data loss prevention]] works?
+What are the two different ways [[data loss prevention DLP]] works?
 - Agent-based and network based as explained above.
-What are the mechanisms of action for [[data loss prevention]]?
+What are the mechanisms of action for [[data loss prevention DLP]]?
 - Water Marking
 	Where a document or other type of file, has some background text taking up the enter page that reads "confidential", or something similar. The document itself remains readable.
 - Pattern Matching

@@ -1,1 +1,8 @@
 - [[cloud]]
+- [[workstations]]
+- [[servers]]
+- [[industrial control systems ICS]]
+- [[supervisory control and data acquisition SCADA]]
+- [[embedded systems]]
+- [[real-time operating system RTOS]]
+- [[Internet of things IoT]]

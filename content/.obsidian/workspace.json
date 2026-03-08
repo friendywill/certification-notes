@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 10.md",
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 10"
-            }
-          },
-          {
-            "id": "5029b1ba46bd0ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/hardening cloud infrastructure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "hardening cloud infrastructure"
+              "title": "Comptia Security+ Chapter 11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,36 +222,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5029b1ba46bd0ad2",
+  "active": "2861e90aeb9187f4",
   "lastOpenFiles": [
-    "Comptia Security+ Certification/Comptia Security+ Chapter 10.md",
-    "Definitions/governance and auditing of third-party vendors.md",
-    "Definitions/API inspection.md",
-    "Definitions/cloud security issues.md",
-    "Definitions/devops.md",
-    "Definitions/cloud networking.md",
-    "Definitions/cloud storage resources.md",
-    "Definitions/containerization.md",
-    "Definitions/virtualisation.md",
-    "Definitions/cloud controls matrix.md",
-    "Definitions/cloud deployment models.md",
-    "Definitions/cloud roles.md",
-    "Definitions/cloud.md",
-    "Definitions/public cloud.md",
-    "Definitions/hardening cloud infrastructure.md",
-    "Definitions/secretes management.md",
-    "Definitions/cloud access security brokers CASB.md",
-    "Definitions/secure web gateways SWG.md",
-    "Definitions/virtualisation security.md",
-    "Definitions/virtual private cloud VPC.md",
-    "Definitions/hypervisor.md",
+    "Definitions/protecting endpoints.md",
+    "Definitions/endpoint protection.md",
+    "Definitions/anti-malware.md",
+    "Definitions/artificial intelligence AI.md",
+    "Definitions/heuristic.md",
+    "Definitions/signature based detection.md",
+    "Definitions/anti-virus.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 11.md",
+    "Definitions/unified extensible firmware interface UEFI.md",
+    "Definitions/hardware root of trust.md",
+    "Definitions/security enclave.md",
+    "Definitions/trusted platform module TPM.md",
+    "Definitions/sealing.md",
+    "Definitions/binding.md",
+    "Definitions/measured boot.md",
+    "Definitions/secure boot.md",
+    "Definitions/hardware vulnerabilities.md",
+    "Definitions/firmware.md",
+    "basic input/output system BIOS.md",
+    "basic input",
+    "Definitions/operating system vulnerabilities.md",
+    "Definitions/4.5 Given a scenario, modify enterprise capabilities to enhance security..md",
+    "Comptia Security+ Certification/4.4 Explain security alerting and monitoring concepts and tools..md",
+    "Definitions/4.2 Explain the security implications of proper hardware, software, and data asset management..md",
+    "Definitions/decommissioning.md",
+    "Definitions/asset tracking.md",
+    "Definitions/assignment and accounting.md",
     "attachments/Pasted image 20250525135404.png",
-    "Definitions/responsibility matrix.md",
     "attachments/Pasted image 20250525134908.png",
-    "Definitions/Infrastructure as a Service IaaS.md",
-    "Definitions/elasticity.md",
-    "Definitions/4.1 Given a scenario, apply common security techniques to computing resources..md",
-    "Definitions/hardening targets.md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",
@@ -289,7 +265,6 @@
     "Advanced Security Practitioner",
     "Security  701/Domains",
     "Comptia Security+ Certification",
-    "Self-Management/Objectives",
     "Untitled.canvas"
   ]
 }

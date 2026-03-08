@@ -1,0 +1,1 @@
+helps to ensure hardware components are unaltered, especially used in [[health attestation HA]] for remote use

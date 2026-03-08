@@ -1,0 +1,1 @@
+a technique which uses a [[digital signature database]] to ensure only the [[original equipment manufacture OEM]] trusted software is run

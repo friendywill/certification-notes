@@ -1,0 +1,1 @@
+Apple's version of [[trusted platform module TPM]]

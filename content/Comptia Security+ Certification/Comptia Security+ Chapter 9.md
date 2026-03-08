@@ -21,7 +21,7 @@ aliases:
 
 
 [[continuity of operations]]
-[[architectural considerations and security]]
+[[architecture model considerations]]
 [[architecture model considerations]]
 [[Redundant Array of Inexpensive Disks RAID]]
 [[backups]]

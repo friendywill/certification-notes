@@ -1,0 +1,8 @@
+- [[data encryption]]
+- [[Endpoint Detection and Response (EDR)]]
+- [[host-based firewall]]
+- [[endpoint protection]]
+- [[host-based intrusion prevention system HIPS]]
+- [[disabling ports and protocols]]
+- [[default password change]]
+- [[removal of bloatware]]
