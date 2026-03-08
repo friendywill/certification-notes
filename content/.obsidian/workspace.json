@@ -1989,9 +1989,105 @@
               "icon": "lucide-file",
               "title": "Comptia Security+ Chapter 4"
             }
+          },
+          {
+            "id": "2196382e855b3750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/password attacks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "password attacks"
+            }
+          },
+          {
+            "id": "992b3b1e6a730392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 5"
+            }
+          },
+          {
+            "id": "67ce443d716ab3dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 5"
+            }
+          },
+          {
+            "id": "37b5b60590a09cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/social engineering techniques.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "social engineering techniques"
+            }
           }
         ],
-        "currentTab": 82
+        "currentTab": 85
       }
     ],
     "direction": "vertical"
@@ -2182,34 +2278,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "14b29ea6292bdecf",
+  "active": "67ce443d716ab3dc",
   "lastOpenFiles": [
+    "Definitions/vulnerability management.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 5.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 4.md",
+    "Definitions/dictionary attacks.md",
+    "Definitions/password attacks.md",
+    "Definitions/password spraying.md",
+    "Definitions/brute-force.md",
+    "Definitions/social engineering techniques.md",
+    "Definitions/typosquatting.md",
+    "Definitions/brand impersonation.md",
+    "Definitions/watering hole attack.md",
+    "Definitions/pretexting.md",
+    "Definitions/business email compromise.md",
+    "Definitions/impersonation.md",
+    "Definitions/TRUST Model.md",
+    "Definitions/malinformation.md",
+    "Definitions/disinformation.md",
+    "Definitions/misinformation.md",
+    "Definitions/smishing.md",
+    "Definitions/social engineering key principles.md",
+    "Definitions/Authority.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
     "Comptia Security+ Certification/Comptia Security+ Plan.md",
     "index.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 4.md",
     "Definitions/phishing.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 3.md",
-    "Definitions/human vectors.md",
-    "Definitions and Concepts/threat vectors.md",
-    "Definitions/2.4 Given a scenario, analyze indicators of malicious activity.md",
-    "Definitions/vulnerability management.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
-    "Definitions and Concepts/worms.md",
-    "Definitions and Concepts/wired network as a threat vector.md",
-    "Definitions and Concepts/why threat actors are categorized.md",
-    "Definitions and Concepts/white hat hackers.md",
-    "Definitions and Concepts/vulnerability management.md",
-    "Definitions and Concepts/vulnerability database.md",
-    "Definitions and Concepts/vishing.md",
-    "Definitions and Concepts/virus.md",
-    "Definitions and Concepts/virus variates.md",
-    "Definitions and Concepts/Untitled.md",
-    "Definitions and Concepts/unskilled attackers.md",
-    "Definitions and Concepts/types of vulnerabilities.md",
-    "Definitions and Concepts/trojans.md",
-    "Definitions and Concepts/tokenization.md",
-    "Definitions and Concepts/threat maps.md",
     "Definitions and Concepts",
     "Comptia Security+ Certification/Monologue",
     "Definitions",

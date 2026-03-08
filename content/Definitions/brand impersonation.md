@@ -1,0 +1,1 @@
+similar to [[impersonation]], but for a company, EG "Microsoft Support"

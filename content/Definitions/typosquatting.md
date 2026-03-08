@@ -1,0 +1,1 @@
+use of a domain similar to a legitimate domain in order to catch when people mistype the domain in the URL

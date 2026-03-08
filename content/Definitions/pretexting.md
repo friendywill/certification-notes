@@ -1,0 +1,1 @@
+a false story used to support the [[social engineering techniques|social engineering technique]] of building trust and [[impersonation]]

@@ -1,0 +1,1 @@
+where something is presented as fact but is intentionally not

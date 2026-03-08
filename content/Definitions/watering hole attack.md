@@ -1,0 +1,1 @@
+similar to [[impersonation]], but instead, poisoning a frequently visited website, can be compromised or by using the ad network

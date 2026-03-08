@@ -1,0 +1,1 @@
+using common passwords against usernames using the context of the application to attempt to guess common passwords specific to that application. EG Football websites may have users use their team name as their password.
