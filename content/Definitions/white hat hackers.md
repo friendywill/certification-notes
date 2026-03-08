@@ -1,0 +1,1 @@
+individuals authorised to compromise [[cybersecurity]] to find different vulnerabilities to rectify.

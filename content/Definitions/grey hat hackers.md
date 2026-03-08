@@ -1,0 +1,1 @@
+individuals who partake in illegal, or legally questionable activities that compromise [[cybersecurity]], but have the goal of informing organisations on vulnerabilities.

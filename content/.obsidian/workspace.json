@@ -1708,7 +1708,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -1723,11 +1723,491 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 2"
+              "title": "Comptia Security+ Chapter 2, Review 1"
+            }
+          },
+          {
+            "id": "ed775ce69e415c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 2, Review 1"
+            }
+          },
+          {
+            "id": "0ecc53c70d71e542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "02b59e3147679bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "71f7cfa101bc725a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "75730cba1a76de85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 2, Review 1"
+            }
+          },
+          {
+            "id": "c519cce216a5f2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "14cd048085a5a666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "c82615a5a29f8790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "e0a4817cb9bbb025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "b2b4bb7b048d8489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "c3c39434882f1058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "e4169080501ade34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor types"
+            }
+          },
+          {
+            "id": "14b29ea6292bdecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 2, Review 1"
+            }
+          },
+          {
+            "id": "d44bee8bc77f6dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/hackers hats.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hackers hats"
+            }
+          },
+          {
+            "id": "db961954a29be7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/hackers hats.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hackers hats"
+            }
+          },
+          {
+            "id": "407d8336090508a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/hackers hats.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hackers hats"
+            }
+          },
+          {
+            "id": "1f754e980e6d7062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/hackers hats.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hackers hats"
+            }
+          },
+          {
+            "id": "a3228fa72e08b7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 2, Review 1"
+            }
+          },
+          {
+            "id": "99f2035f370f9ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor motivations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor motivations"
+            }
+          },
+          {
+            "id": "019efa599dc2d99a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor motivations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor motivations"
             }
           }
         ],
-        "currentTab": 71
+        "currentTab": 91
       }
     ],
     "direction": "vertical"
@@ -1918,10 +2398,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f12499055bd519f8",
+  "active": "019efa599dc2d99a",
   "lastOpenFiles": [
-    "Comptia Security+ Certification/Monologue/Lacking.md",
+    "Definitions/espionage.md",
+    "Definitions/threat actor motivations.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
+    "Definitions/hackers hats.md",
+    "Definitions/grey hat hackers.md",
+    "Definitions/white hat hackers.md",
+    "Definitions/black hat hackers.md",
+    "Definitions/unskilled attackers.md",
+    "Definitions/threat actor classifications.md",
+    "Definitions/threat actor types.md",
+    "Definitions/insider threats.md",
+    "Definitions/types of vulnerabilities.md",
+    "Definitions/nation-state attackers.md",
+    "Definitions/competitors.md",
+    "Definitions/hacktivists.md",
+    "Definitions/organised crime.md",
+    "Definitions/Untitled.md",
+    "Comptia Security+ Certification/Monologue/Lacking.md",
     "Comptia Security+ Certification/Monologue",
     "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
     "Definitions/security control types.md",
@@ -1930,23 +2427,6 @@
     "Definitions/data breach risks.md",
     "Definitions/cybersecurity threat classifications.md",
     "Definitions/cybersecurity threats.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
-    "Templates/Definition Template.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 1.md",
-    "Comptia Security+ Certification/Comptia Security+ Failed Practice Questions.md",
-    "Comptia Security+ Certification/Comptia Security+ Plan.md",
-    "Comptia Security+ Certification/Comptia Security+ Exam.md",
-    "Definitions/compensating security control type.md",
-    "Definitions/digital rights management (DRM).md",
-    "Definitions/data exfiltration.md",
-    "Definitions/data protection.md",
-    "Definitions/isolation.md",
-    "Definitions/segmentation.md",
-    "Definitions/permission access restriction.md",
-    "Definitions/access restrictions.md",
-    "Definitions/geographic access restriction.md",
-    "Definitions/data minimisation.md",
-    "Definitions/data loss prevention.md",
     "Definitions",
     "attachments/Pasted image 20250130181104.png",
     "attachments/Pasted image 20250130180921.png",
