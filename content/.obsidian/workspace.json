@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a4d69d252c08ffed",
+        "id": "b68b6c1bae8d3a23",
         "type": "tabs",
         "children": [
           {
-            "id": "6aba426afdc0e3f7",
+            "id": "aeb9c2512e5f81c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Comptia Security+ Chapter 6"
             }
           }
         ]
@@ -208,35 +222,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6aba426afdc0e3f7",
+  "active": "aeb9c2512e5f81c9",
   "lastOpenFiles": [
+    "Definitions/other considerations of automation and scripting.md",
+    "Definitions/benefits of automation and scripting.md",
+    "Definitions/use cases of automation and scripting.md",
+    "Definitions/guard rails.md",
+    "Definitions/automation and orchestration.md",
+    "Definitions/4.7 Explain the importance of automation and orchestration related to secure operations..md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 6.md",
-    "Definitions/XSS Cross (X) Site-Scripting.md",
-    "Definitions/stored or persistent XSS.md",
-    "stored/persistent XSS.md",
+    "Definitions/secure coding practices.md",
+    "Definitions/securing APIs.md",
+    "Definitions/race conditions.md",
+    "Definitions/time-of-use TOU.md",
+    "Definitions/target of evaluation TOE.md",
+    "Definitions/time-of-check TOC.md",
+    "Definitions/memory management best practices.md",
+    "Definitions/buffer overflow.md",
+    "Definitions/pointer dereferencing.md",
+    "Definitions/resource exhaustion.md",
+    "Definitions/memory leak.md",
+    "Definitions/application attacks.md",
+    "Definitions/[buffer overflow.md",
+    "Definitions/package monitoring.md",
+    "Definitions/handling secrets.md",
+    "Definitions/error handling best practices.md",
+    "Definitions/source code comments best practices.md",
+    "Definitions/application security controls.md",
+    "Definitions/code security.md",
     "stored",
-    "Definitions/privilege escalation attack.md",
-    "Definitions/file inclusion attack.md",
-    "Definitions/directory traversal attack.md",
-    "Definitions/insecure direct object references.md",
-    "Definitions/unvalidated redirects.md",
-    "Definitions/cookie stealing and manipulation.md",
-    "Definitions/secure cookies.md",
-    "Definitions/session replay attack.md",
-    "Definitions/session attacks.md",
-    "Definitions/password vulnerabilities.md",
-    "Definitions/password attacks.md",
-    "Comptia Security+ Certification/2.3 Explain various types of vulnerabilities..md",
-    "Definitions/web-based vulnerabilities.md",
-    "Definitions/application vulnerabilities.md",
-    "Definitions/injection vulnerabilities.md",
-    "Definitions/command injection attacks.md",
-    "Definitions/code injection attacks.md",
-    "Definitions/SQL injections SQLI.md",
-    "Definitions/blind timing-based SQL injection.md",
-    "Definitions/blind content-based SQL injection.md",
-    "Definitions/SQL injections.md",
-    "Definitions/web application scanner.md",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",
     "Comptia Security+ Certification/Monologue",

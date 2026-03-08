@@ -1,5 +1,5 @@
 - [[application injection]]
-- [[[buffer overflow]]
+- [[buffer overflow]]
 - [[replay attack]]
 - [[privilege escalation attack]]
 - [[forgery]]

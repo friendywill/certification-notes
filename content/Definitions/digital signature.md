@@ -1,1 +1,1 @@
-where a [[hash]]
+where a [[hash]] is signed by a [[public key]]

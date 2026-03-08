@@ -1,0 +1,1 @@
+essentially the same as [[Cross-Site Request Forgery XSRF]], but instead of tricking the user, this attack tricks the server into visiting a particular URL.

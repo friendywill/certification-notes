@@ -1,0 +1,1 @@
+the resource attempted to be accessed

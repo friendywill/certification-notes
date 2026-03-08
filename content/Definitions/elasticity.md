@@ -1,0 +1,1 @@
+[[scalability]], but with automatic resource provisioning and deprovisioning

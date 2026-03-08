@@ -1,0 +1,1 @@
+a controlled or [[isolation|isolated]] environment, where the if an attack occurs in them, the results of the attack are benign attempts

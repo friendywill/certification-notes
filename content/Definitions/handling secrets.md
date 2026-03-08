@@ -1,0 +1,1 @@
+it is never a good idea to hardcode in secrets, especially production ones. Even including them into a .env file can be problematic. It is best instead to use secret managers, such as a secrets store in kubernetes

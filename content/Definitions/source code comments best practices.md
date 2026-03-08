@@ -1,0 +1,1 @@
+code comments are useful, but should not be exposed to the public. EG comments in javascript should be removed. This is not applicable for languages that compile their code into a binary, as the comments get removed.

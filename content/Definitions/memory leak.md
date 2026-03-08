@@ -1,0 +1,1 @@
+where memory that has been finished with, is not properly freed, leaving to the inevitable leadup to [[resource exhaustion]]

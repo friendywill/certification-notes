@@ -1,0 +1,1 @@
+rather than operating at the [[layer 4 - transport layer|transport layer]], they operate at that level, and up to the [[layer 7 application layer|application layer]].  Can help perform [[input validation]]

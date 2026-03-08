@@ -35,9 +35,12 @@ aliases:
 [[file inclusion attack]]
 [[privilege escalation attack]]
 [[XSS Cross (X) Site-Scripting]]
+[[request forgery]]
+[[application security controls]]
+[[secure coding practices]]
+[[automation and orchestration]]
 
 
-continue from 167
 # Survey
 Think about what could be included.
 Read the introduction / summary.

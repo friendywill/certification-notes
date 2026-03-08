@@ -1,0 +1,1 @@
+can be safe, except when dereferencing a null pointer

@@ -1,0 +1,1 @@
+uses a [[hash]] which is calculated based on the output product, then is signed using the developers/publishers [[public key]] to create a [[digital signature]]

@@ -1,0 +1,1 @@
+rather than sending direct SQL queries from the client, the client sends a queries with arguments to the server which the server itself performs the queries

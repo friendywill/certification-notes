@@ -1,0 +1,1 @@
+ensuring that some level of authentication and encryption exists for an API server
