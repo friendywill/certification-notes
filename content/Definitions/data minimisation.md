@@ -3,5 +3,5 @@ the process of removing or obfuscating sensitive data in order to make a data-se
 the methods of minimising a dataset through obfuscation includes:
 - [[hash|hashing]]
 - [[tokenization]]
-- [[partial redactions]]
+- [[data masking]]
 - [[data encryption]]

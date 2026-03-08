@@ -47,7 +47,7 @@ What is the purpose of [[threat intelligence]]?
 What is a [[vulnerability database]], and why is it essential for [[threat intelligence]] programs?
 Why are [[indicators of compromise IoC]] important for [[threat intelligence]]?
 What are the different types of [[OSINT data sources]]?
-What are the different types of [[closed source intelligence]]?
+What are the different types of [[proprietary closed source intelligence]]?
 What are the factors that need to be considered when [[assessing threat intelligence]]?
 How should [[threat indicator management]] be conducted?
 What is [[threat management exchange]]?

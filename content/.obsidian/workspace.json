@@ -2066,10 +2066,375 @@
             "id": "822a8be4159ee750",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 5"
+            }
+          },
+          {
+            "id": "265a89ae1d370dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/4.3 Explain various activities associated with vulnerability management..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4.3 Explain various activities associated with vulnerability management."
+            }
+          },
+          {
+            "id": "96ede76e188b4f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/vulnerability management.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "vulnerability management"
+            }
+          },
+          {
+            "id": "7b0a27742a7cea7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/1.0 General Security Concepts 12%.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.0 General Security Concepts 12%"
+            }
+          },
+          {
+            "id": "0ddce396676dfe48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/1.0 General Security Concepts 12%.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.0 General Security Concepts 12%"
+            }
+          },
+          {
+            "id": "d7f9b4868f7d0a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/1.2 Summarize fundamental security concepts..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.2 Summarize fundamental security concepts."
+            }
+          },
+          {
+            "id": "40ac7bb5f9c1ae57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/1.4 Explain the importance of using appropriate cryptographic solutions..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.4 Explain the importance of using appropriate cryptographic solutions."
+            }
+          },
+          {
+            "id": "82466a5531a4bd37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/1.4 Explain the importance of using appropriate cryptographic solutions..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.4 Explain the importance of using appropriate cryptographic solutions."
+            }
+          },
+          {
+            "id": "9f578de4bb7fa4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/3.0 Security Architecture 18%.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.0 Security Architecture 18%"
+            }
+          },
+          {
+            "id": "f5669177eebbc6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/3.3 Compare and contrast concepts and strategies to protect data..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.3 Compare and contrast concepts and strategies to protect data."
+            }
+          },
+          {
+            "id": "7ed80f24d802b6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/5.5 Explain types and purposes of audits and assessments..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5.5 Explain types and purposes of audits and assessments."
+            }
+          },
+          {
+            "id": "10b394944673843d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "content/.trash/vulnerability management 1.md",
+                "bFile": "content/.trash/vulnerability management 1.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: vulnerability management 1"
+            }
+          },
+          {
+            "id": "872153aee1cce1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor motivations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor motivations"
+            }
+          },
+          {
+            "id": "30509c99451682cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor motivations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor motivations"
+            }
+          },
+          {
+            "id": "40f0f64de51771ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/threat actor attributes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "threat actor attributes"
+            }
+          },
+          {
+            "id": "a68f967bb00696d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/unskilled attackers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "unskilled attackers"
             }
           },
           {
@@ -2121,7 +2486,7 @@
             }
           }
         ],
-        "currentTab": 86
+        "currentTab": 97
       }
     ],
     "direction": "vertical"
@@ -2178,7 +2543,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb0495a3a4e7f5a",
@@ -2312,34 +2678,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "822a8be4159ee750",
+  "active": "10b394944673843d",
   "lastOpenFiles": [
-    "Definitions/CVSS.md",
-    "Definitions/exploitability score.md",
-    "Definitions/impact score.md",
-    "Definitions/impact sub-score.md",
-    "Definitions/user interaction score.md",
-    "Definitions/privileges required score.md",
-    "Definitions/changed scope.md",
-    "Definitions/unchanged scope.md",
-    "Definitions/attack complexity score.md",
-    "Definitions/attack vector score.md",
+    "Definitions/penetration testing.md",
+    "Definitions/penetration testing environments.md",
+    "Definitions/5.5 Explain types and purposes of audits and assessments..md",
+    "Definitions/external audit and assessments.md",
+    "Definitions/internal audit or assessment.md",
+    "Definitions/5.3 Explain the processes associated with third-party risk assessment and management..md",
+    "Comptia Security+ Certification/4.3 Explain various activities associated with vulnerability management..md",
+    "Definitions/4.8 Explain appropriate incident response activities..md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 5.md",
-    "Definitions/social engineering techniques.md",
-    "Definitions/confidentiality score.md",
-    "Definitions/integrity score.md",
-    "Definitions/availability score.md",
-    "Definitions and Concepts/availability.md",
-    "Definitions and Concepts/integrity.md",
-    "Definitions and Concepts/confidentiality.md",
-    "Definitions/impact.md",
-    "Definitions/exploitability.md",
-    "Definitions/attack complexity.md",
-    "Definitions and Concepts/threat vectors.md",
-    "Definitions/vulnerability management.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 4.md",
-    "Definitions/dictionary attacks.md",
+    "Definitions/vulnerability scans.md",
+    "Definitions/4.4 Explain security alerting and monitoring concepts and tools..md",
+    "Definitions/security tools.md",
+    "Definitions/reporting on vulnerabilities.md",
+    "Definitions/validation of vulnerability remediation.md",
+    "Definitions/vulnerability response and remediation.md",
+    "Definitions/vulnerability analysis.md",
+    "Definitions/chpater5.md",
+    "Definitions/identification methods.md",
+    "Definitions/2.4 Given a scenario, analyze indicators of malicious activity.md",
     "Definitions/password attacks.md",
+    "Definitions/2.2 Explain common threat vectors and attack surfaces..md",
+    "Definitions/human vectors and social engineering.md",
+    "Definitions/malware types.md",
+    "Comptia Security+ Certification/2.0 Threats, Vulnerabilities, and Mitigations 22%.md",
+    "Comptia Security+ Certification/4.0 Security Operations 28%.md",
+    "Definitions/proprietary closed source intelligence.md",
+    "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",
     "Comptia Security+ Certification/Monologue",
     "Definitions",

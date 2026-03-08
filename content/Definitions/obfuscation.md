@@ -1,0 +1,2 @@
+in the [[Comptia Security+ study guide book]], this is poorly included in chapter 1, where it confusingly seems that obfuscation refers to [[data minimisation]], when they are not equivalent. 
+[[tokenization]], [[steganography]] and [[data masking]].
