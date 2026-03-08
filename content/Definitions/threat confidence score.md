@@ -1,0 +1,1 @@
+a resulting metric that determines how likely some hit is actually a threat.

@@ -1,1 +1,1 @@
-the day-to-day tasks that help keep an organisation secure
+the day-to-day tasks that help keep an organisation secure, specifically controls implemented to people, where they can be security guards, or IT admins going over security logs.

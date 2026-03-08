@@ -1,4 +1,6 @@
 # Welcome to my certification notes
+TODO: View professor messer for chapter 2
+TODO: View professor messer from 3.3 for chapter 1
 
 This website contains my:
 - study notes,

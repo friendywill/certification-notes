@@ -1,0 +1,1 @@
+geographic locations of where attacks are coming from, this is notoriously unreliable with attackers masking their IP's to other countries.

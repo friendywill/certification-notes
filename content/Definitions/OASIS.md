@@ -1,0 +1,1 @@
+Organisation for the Advancement of Structured Information Standards, a non-profit standardization company, particularly known for [[STIX]].

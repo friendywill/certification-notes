@@ -1,0 +1,1 @@
+where [[threat intelligence]] results are exchanged to improve other organisation's security posture
