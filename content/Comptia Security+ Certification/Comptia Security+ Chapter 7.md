@@ -15,6 +15,7 @@ aliases:
 [[2.3 Explain various types of vulnerabilities.]]
 [[2.4 Given a scenario, analyze indicators of malicious activity]]
 
+[[key escrow]]
 [[substitution]]
 [[polyalphabetic substitution]]
 [[transposition ciphers]]
@@ -40,7 +41,9 @@ aliases:
 [[public key infrastructure PKI]]
 [[certificates]]
 [[Hardware Security Modules HSM]]
+[[key exchange]]
 [[cryptographic attacks]]
+[[trusted platform module TPM]]
 read over the exam essentials
 
 

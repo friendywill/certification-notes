@@ -11,13 +11,76 @@
             "id": "6864c72bafec020c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Comptia Security+ Chapter 7"
+            }
+          },
+          {
+            "id": "056d7184c74aa7e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/cryptographic attacks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cryptographic attacks"
+            }
+          },
+          {
+            "id": "a51fe5b89961d881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/SSL stripping.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SSL stripping"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,10 +271,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6864c72bafec020c",
+  "active": "a51fe5b89961d881",
   "lastOpenFiles": [
-    "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
+    "Definitions/SSL stripping.md",
     "Definitions/cryptographic attacks.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
+    "Definitions/trusted platform module TPM.md",
+    "Definitions/key exchange.md",
+    "Definitions/key stretching.md",
+    "Definitions/key escrow.md",
+    "Definitions/public key infrastructure PKI.md",
     "Definitions/rainbow table attack.md",
     "Definitions/downgrade attack.md",
     "Definitions/birthday attack.md",
@@ -230,12 +299,6 @@
     "Definitions/certificate enrolment.md",
     "Definitions/registration authorities.md",
     "Definitions/certificate authorities.md",
-    "Definitions/public key infrastructure PKI.md",
-    "Definitions/digital signature.md",
-    "Definitions/Hash Message Authentication Code HMAC.md",
-    "Definitions/hash.md",
-    "Definitions/storage and destruction of symmetric keys.md",
-    "Definitions/symmetric encryption management.md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",

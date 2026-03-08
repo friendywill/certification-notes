@@ -1,3 +1,5 @@
+there are many algorithms that are considered secure and stand the test of time, but what is usually attacked, is the implementation of these algorithms as that is usually the weakest link
+[[SSL stripping]]
 [[brute-force]]
 [[frequency analysis]]
 [[chosen plain text attack]]

@@ -1,0 +1,1 @@
+taking advantage of when clients use [[http]] instead of [[https]], where the 301 redirect to https is never done, instead their is a [[man-in-the-middle attack]] where the actor uses https to connect to the server, then sends back the user http
