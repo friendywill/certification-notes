@@ -1,0 +1,1 @@
+tricking the user into using a less secure algorithm

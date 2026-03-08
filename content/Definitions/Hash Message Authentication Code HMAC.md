@@ -1,0 +1,1 @@
+assures integrity by using [[symmetric encryption]], but does not assure [[non-repudiation]] like a [[digital signature]] does

@@ -1,0 +1,1 @@
+similar to [[chosen plain text attack]], except where the attacker obtains cipher texts encrypted by two different keys

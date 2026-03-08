@@ -1,0 +1,1 @@
+essentially the where the  mathematical probability  of a collision occuring greatly increases when their are many more [[hash|hashes]] are in the mix.

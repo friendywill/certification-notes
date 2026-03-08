@@ -1,0 +1,1 @@
+only really effective on older algorithms, but detects repeated letters, especially common ones such as E or A

@@ -1,0 +1,1 @@
+where the certificate is pinned to the subject for an extended period of time

@@ -31,10 +31,20 @@ aliases:
 [[Data Encryption Standard DES]]
 [[Advanced Encryption Standard AES]]
 [[symmetric encryption management]]
+[[Rivest, Shamir,, Adleman RSA]]
+[[hash]]
+[[Secure Hash Algorithm SHA]]
+[[Message-Digest MD5]]
+[[digital signature]]
+[[Hash Message Authentication Code HMAC]]
+[[public key infrastructure PKI]]
+[[certificates]]
+[[Hardware Security Modules HSM]]
+[[cryptographic attacks]]
+read over the exam essentials
 
-Continue from page 212
 
-MAYBE: review Diffie-Hellman
+
 # Survey
 Think about what could be included.
 Read the introduction / summary.

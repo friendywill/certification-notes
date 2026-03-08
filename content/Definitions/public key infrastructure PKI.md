@@ -1,3 +1,5 @@
 [[public key]]
 [[private key]]
 [[key escrow]]
+[[certificates]]
+[[certificate authorities]]

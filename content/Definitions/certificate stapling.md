@@ -1,0 +1,1 @@
+designed to help relieve [[Online Certificate Status Protocol OCSP]] servers, where the certificate is recently validated by the [[certificate authorities]], timestamped and shipped to the user.

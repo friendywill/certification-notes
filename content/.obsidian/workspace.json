@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d884079c0c02a61d",
+        "id": "e3a50ba86c75f3ce",
         "type": "tabs",
         "children": [
           {
-            "id": "4b27cde8f1e02449",
+            "id": "6864c72bafec020c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 7"
+              "title": "New tab"
             }
           }
         ]
@@ -222,34 +208,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4b27cde8f1e02449",
+  "active": "6864c72bafec020c",
   "lastOpenFiles": [
-    "Definitions/storage and destruction of symmetric keys.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
-    "Definitions/symmetric encryption management.md",
-    "Definitions/creation and distribution of symmetric keys.md",
-    "Definitions/symmetric encryption.md",
-    "Definitions/asymmetric encryption.md",
-    "Definitions/cryptography.md",
-    "Definitions/ciphers.md",
-    "Definitions/stream ciphers.md",
-    "Definitions/block ciphers.md",
-    "Definitions/cryptanalysis.md",
-    "Definitions/non-repudiation.md",
-    "Comptia Security+ Certification/1.4 Explain the importance of using appropriate cryptographic solutions..md",
-    "Definitions/data encryption.md",
-    "Definitions/data encryption level.md",
-    "Definitions/obfuscation.md",
-    "Definitions/cryptography goals.md",
-    "Definitions/privilege escalation attack.md",
-    "Definitions/use cases of automation and scripting.md",
-    "Definitions/escalation.md",
-    "Definitions/replay attack.md",
-    "Comptia Security+ Certification/2.3 Explain various types of vulnerabilities..md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 6.md",
-    "Definitions/transposition ciphers.md",
-    "Comptia Security+ Certification/2.4 Given a scenario, analyze indicators of malicious activity.md",
+    "Definitions/cryptographic attacks.md",
+    "Definitions/rainbow table attack.md",
+    "Definitions/downgrade attack.md",
+    "Definitions/birthday attack.md",
+    "Definitions/related key attack.md",
+    "Definitions/chosen plain text attack.md",
+    "Definitions/frequency analysis.md",
+    "Definitions/Hardware Security Modules HSM.md",
     "Definitions/certificates.md",
+    "Definitions/certificate formats.md",
+    "Definitions/Distinguished Encoding Rules DER format.md",
+    "Definitions/Online Certificate Status Protocol OCSP.md",
+    "Definitions/certificate stapling.md",
+    "Definitions/certificate revocation.md",
+    "Definitions/certificate pinning.md",
+    "Definitions/certificate verification.md",
+    "Definitions/certificate enrolment.md",
+    "Definitions/registration authorities.md",
+    "Definitions/certificate authorities.md",
+    "Definitions/public key infrastructure PKI.md",
+    "Definitions/digital signature.md",
+    "Definitions/Hash Message Authentication Code HMAC.md",
+    "Definitions/hash.md",
+    "Definitions/storage and destruction of symmetric keys.md",
+    "Definitions/symmetric encryption management.md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",

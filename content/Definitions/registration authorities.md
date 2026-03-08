@@ -1,0 +1,1 @@
+does not perform certificate signing as a [[certificate authorities|certificate authority]] would, but does help them verify user's identities
