@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions and Concepts/access restrictions.md",
+                "file": "Comptia Security+ Certification/Comptia Security+ Plan.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "access restrictions"
+              "title": "Comptia Security+ Plan"
             }
           },
           {
@@ -439,10 +439,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9cd2278b255f042f",
+  "active": "41fae150110d5373",
   "lastOpenFiles": [
-    "Definitions and Concepts/worms.md",
+    "index.md",
+    "Definitions and Concepts/access restrictions.md",
+    "Comptia Security+ Certification/1.0 General Security Concepts 12%.md",
+    "Comptia Security+ Certification/Comptia Security+ study guide book.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
+    "Definitions and Concepts/worms.md",
     "Definitions and Concepts/virus.md",
     "Definitions and Concepts/virus variates.md",
     "Definitions and Concepts/rootkit.md",
@@ -461,13 +465,9 @@
     "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
     "Definitions and Concepts/shadow IT.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
-    "Definitions and Concepts/access restrictions.md",
     "Definitions and Concepts/agent-based DLP.md",
     "Definitions and Concepts/agentless-DLP.md",
     "Definitions and Concepts/alteration.md",
-    "Definitions and Concepts/assessing threat intelligence.md",
-    "Definitions and Concepts/attack surfaces.md",
-    "Definitions and Concepts/availability.md",
     "Definitions and Concepts",
     "attachments/Pasted image 20250130181104.png",
     "attachments/Pasted image 20250130180921.png",

@@ -8,8 +8,8 @@ This website contains my:
 - plans to undertake certification study, and;
 - information about the certification itself (from my POV).
 
+Originally was using SQ4R, but it took me too long.
 The plans contains specifics on how I will tackle that particular certification, but in general, I will follow SQ4R, image below for reference ([SQ4R Study Method](https://www.youtube.com/watch?v=V5t_VctZPyg), YouTube thumbnail): 
-![[Pasted image 20250130181104.png]]
 
 To start, navigate to my [[Comptia Security+ Plan]]
 
