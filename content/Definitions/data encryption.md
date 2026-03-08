@@ -1,1 +1,3 @@
 the process of obfuscating data, where the obfuscation can be reversed with some key
+
+[[data encryption level]]

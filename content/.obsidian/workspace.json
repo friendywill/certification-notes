@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b68b6c1bae8d3a23",
+        "id": "d884079c0c02a61d",
         "type": "tabs",
         "children": [
           {
-            "id": "aeb9c2512e5f81c9",
+            "id": "4b27cde8f1e02449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 6.md",
+                "file": "Definitions/privilege escalation attack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 6"
+              "title": "privilege escalation attack"
             }
           }
         ]
@@ -222,34 +222,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "aeb9c2512e5f81c9",
+  "active": "4b27cde8f1e02449",
   "lastOpenFiles": [
+    "Definitions/use cases of automation and scripting.md",
+    "Definitions/escalation.md",
+    "Definitions/replay attack.md",
+    "Definitions/privilege escalation attack.md",
+    "Comptia Security+ Certification/2.3 Explain various types of vulnerabilities..md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 6.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
+    "Definitions/transposition ciphers.md",
+    "Comptia Security+ Certification/2.4 Given a scenario, analyze indicators of malicious activity.md",
+    "Comptia Security+ Certification/1.4 Explain the importance of using appropriate cryptographic solutions..md",
+    "Definitions/certificates.md",
+    "Definitions/obfuscation.md",
+    "Definitions/data encryption.md",
+    "Definitions/data encryption level.md",
+    "Definitions/public key infrastructure PKI.md",
     "Definitions/other considerations of automation and scripting.md",
     "Definitions/benefits of automation and scripting.md",
-    "Definitions/use cases of automation and scripting.md",
     "Definitions/guard rails.md",
     "Definitions/automation and orchestration.md",
     "Definitions/4.7 Explain the importance of automation and orchestration related to secure operations..md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 6.md",
     "Definitions/secure coding practices.md",
     "Definitions/securing APIs.md",
     "Definitions/race conditions.md",
     "Definitions/time-of-use TOU.md",
     "Definitions/target of evaluation TOE.md",
     "Definitions/time-of-check TOC.md",
-    "Definitions/memory management best practices.md",
-    "Definitions/buffer overflow.md",
-    "Definitions/pointer dereferencing.md",
-    "Definitions/resource exhaustion.md",
-    "Definitions/memory leak.md",
-    "Definitions/application attacks.md",
-    "Definitions/[buffer overflow.md",
-    "Definitions/package monitoring.md",
-    "Definitions/handling secrets.md",
-    "Definitions/error handling best practices.md",
-    "Definitions/source code comments best practices.md",
-    "Definitions/application security controls.md",
-    "Definitions/code security.md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",
