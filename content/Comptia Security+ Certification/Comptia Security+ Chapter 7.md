@@ -18,7 +18,23 @@ aliases:
 [[substitution]]
 [[polyalphabetic substitution]]
 [[transposition ciphers]]
+[[steganography]]
+[[symmetric encryption]]
+[[asymmetric encryption]]
+[[cryptography goals]]
+[[data at rest]]
+[[data in transit]]
+[[data in use]]
+[[obfuscation]]
+[[cryptography]]
+[[cryptanalysis]]
+[[Data Encryption Standard DES]]
+[[Advanced Encryption Standard AES]]
+[[symmetric encryption management]]
 
+Continue from page 212
+
+MAYBE: review Diffie-Hellman
 # Survey
 Think about what could be included.
 Read the introduction / summary.

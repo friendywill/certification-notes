@@ -1,0 +1,2 @@
+- Never store the plaintext key on the same system that has the encrypted data
+- Consider using split knowledge of the key

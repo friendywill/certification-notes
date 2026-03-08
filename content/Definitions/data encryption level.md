@@ -4,5 +4,5 @@
 [[partition]]
 [[file]]
 [[volume]]
-[[data-base]]
+[[database]]
 [[record]]
