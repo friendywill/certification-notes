@@ -6,8 +6,9 @@ created:
 aliases:
 ---
 # Questions
-While doing all of these steps, add questions. Ensure to answer on a separate page from the original questions.
+How does comptia define [[threat actors]]?
 What are the different [[threat actor types]]?
+[[why threat actors are categorized|Why do we categorize threat actors into types]]?
 What are the different [[cybersecurity threat classifications]]?
 How are the [[hackers hats]] truly defined? What are the legal and ethical implications of each?
 Explain the different [[threat actor motivations]].

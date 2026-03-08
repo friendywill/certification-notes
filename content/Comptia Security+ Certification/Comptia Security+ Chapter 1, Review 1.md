@@ -111,3 +111,4 @@ What are the two types of [[access restrictions]]?
 What is the different between [[segmentation]] and [[isolation]]?
 - Segmentation involves logically seperating networks by either a subnet, vlan, or behind another firewall.
 - Isolation is where a network or client is inaccessible through the network.
+

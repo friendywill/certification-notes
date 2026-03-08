@@ -1,0 +1,1 @@
+the coordinates of a device

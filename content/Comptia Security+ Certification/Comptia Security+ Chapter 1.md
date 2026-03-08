@@ -5,7 +5,7 @@ tags:
 created: 
 aliases:
 ---
-# Today's Security Professional
+# Chapter Title
 
 ### Related #domains:
 
@@ -31,7 +31,7 @@ While doing all of these steps, add questions. Ensure to answer on a separate pa
 
 How does Comptia define [[cybersecurity]]?
 How does Comptia define [[cybersecurity professionals]]?
-How has today's cybersecurity professional evolved?
+How has today's [[evolution of the cybersecurity professional|cybersecurity professional evolved]]?
 What are the different [[cybersecurity objectives]] and how do fulfil the mission of security?
 How could organisations meet these [[cybersecurity objectives]]?
 What are the different [[data breach risks]]? And what are the effects of these breaches?
@@ -49,6 +49,7 @@ How is the [[CIA triad]] triad and the [[DAD triad]]  related?
 What is [[data exfiltration]]?
 What are [[security controls]]? How is it related to a [[gap analysis]]?
 How are [[security control categories]] determined to be [[security control categories]]?
+What are the considerations with [[data sovereignty]]?
 What are the two different ways [[data loss prevention]] works?
 What are the mechanisms of action for [[data loss prevention]]?
 What is [[digital rights management (DRM)]]?

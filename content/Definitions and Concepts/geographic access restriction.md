@@ -1,0 +1,1 @@
+where a user is either granted or denied a request based on their [[geolocation]]

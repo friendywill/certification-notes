@@ -1,1 +1,0 @@
-where a user is either granted or denied a request when they are located within some area of the world

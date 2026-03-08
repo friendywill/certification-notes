@@ -1,0 +1,1 @@
+an entity that has an impact on the security of other entities

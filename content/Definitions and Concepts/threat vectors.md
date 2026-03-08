@@ -1,4 +1,10 @@
+---
+alias:
+  - attack vectors
+---
+
 # What is it?
+
 the way in which an attack can propagate through an [[attack surfaces|attack surface]]
 
 the different vectors include:

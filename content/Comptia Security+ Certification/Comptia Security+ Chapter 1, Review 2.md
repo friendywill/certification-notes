@@ -1,7 +1,7 @@
 ==Study more on PCI DSS, HIPAA, and other standards within the chapter.==
 How does Comptia define [[cybersecurity]]?
 How does Comptia define [[cybersecurity professionals]]?
-How has today's cybersecurity professional evolved?
+How has today's [[evolution of the cybersecurity professional|cybersecurity professional evolved]]?
 What are the different [[cybersecurity objectives]] and how do fulfil the mission of security?
 How could organisations meet these [[cybersecurity objectives]]?
 What are the different [[data breach risks]]? And what are the effects of these breaches?
