@@ -23,5 +23,8 @@ aliases:
 [[CVSS]]
 [[CVE]]
 
+
+Need to go over SCAP, CVE, CVSS
+
 Read over exam essentials again
 Continue professor Messer 4.4

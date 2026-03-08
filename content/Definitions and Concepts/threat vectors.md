@@ -19,3 +19,5 @@ the different vectors include:
 - supply chain
 # Why is it mentioned?
 to defend from [[cybersecurity threats]], understanding where the could come from on an attack surface, is critical.
+
+related to [[attack vector score]]

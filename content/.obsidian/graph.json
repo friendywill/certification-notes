@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-dpath:chapter",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,13 +18,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.836814814814815,
+  "nodeSizeMultiplier": 2.30318518518519,
   "lineSizeMultiplier": 1.09814814814815,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.376285458472017,
+  "scale": 0.5275457774596107,
   "close": false
 }
