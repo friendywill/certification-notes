@@ -9,3 +9,7 @@
 [[proprietary closed source intelligence]]
 [[OSINT data sources]]
 [[dark web]]
+[[application security]]
+[[static analysis]]
+[[dynamic analysis]]
+[[package monitoring]]

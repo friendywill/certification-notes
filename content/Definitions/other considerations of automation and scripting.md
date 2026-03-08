@@ -1,0 +1,5 @@
+- [[complexity]]
+- [[cost]]
+- [[single point of failure]]
+- [[technical debt]]
+- [[ongoing supportability]]
