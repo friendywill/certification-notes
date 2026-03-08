@@ -6,3 +6,4 @@
 - [[disabling ports and protocols]]
 - [[default password change]]
 - [[removal of bloatware]]
+- [[network hardening]]

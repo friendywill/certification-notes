@@ -1,0 +1,1 @@
+the term which supersedes [[blacklists]], where it is specifically used for [[endpoint protection]] protection to block certain applications.

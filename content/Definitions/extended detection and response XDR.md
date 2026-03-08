@@ -1,0 +1,1 @@
+superset of[[Endpoint Detection and Response (EDR)]], but includes more than just endpoints

@@ -26,4 +26,11 @@ aliases:
 [[operating system vulnerabilities]]
 [[hardware vulnerabilities]]
 [[protecting endpoints]]
-continue from sandboxing under page 345
+[[sandboxing]]
+[[data loss prevention DLP]]
+[[hardening techniques]]
+[[embedded systems]]
+[[asset management]]
+
+
+#important [[block or deny lists]] are the new term for [[blacklists]], and [[allows lists]] are the new term for [[whitelists]] in regards to applications 

@@ -1,0 +1,1 @@
+includes [[segmentation]] such as using [[virtual local area network VLAN]]

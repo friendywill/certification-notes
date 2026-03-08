@@ -1,0 +1,1 @@
+supersedes [[whitelists]] in regards to allowing applications [[endpoint protection]]

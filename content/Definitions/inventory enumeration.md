@@ -1,0 +1,1 @@
+scanning to find inventory that has been tracked, or not

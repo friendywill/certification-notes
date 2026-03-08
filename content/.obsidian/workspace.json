@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Comptia Security+ Chapter 11"
             }
+          },
+          {
+            "id": "8736eb947098a568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/asset management.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "asset management"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,35 +247,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2861e90aeb9187f4",
+  "active": "8736eb947098a568",
   "lastOpenFiles": [
+    "Definitions/decommissioning.md",
+    "Definitions/asset management.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 11.md",
+    "Definitions/inventory enumeration.md",
+    "Definitions/embedded systems.md",
+    "Definitions/Internet of things IoT.md",
+    "Definitions/industrial control systems ICS.md",
+    "Definitions/supervisory control and data acquisition SCADA.md",
+    "Definitions/operating system hardening.md",
+    "Definitions/configuration management tools.md",
+    "Definitions/hardening techniques.md",
+    "Definitions/hardening targets.md",
+    "Definitions/network hardening.md",
     "Definitions/protecting endpoints.md",
+    "Definitions/host-based intrusion prevention system HIPS.md",
     "Definitions/endpoint protection.md",
+    "Definitions/extended detection and response XDR.md",
+    "Definitions/data loss prevention DLP.md",
+    "Definitions/Endpoint Detection and Response (EDR).md",
     "Definitions/anti-malware.md",
+    "Definitions/allows lists.md",
+    "Definitions/block or deny lists.md",
+    "Definitions/sandboxing.md",
     "Definitions/artificial intelligence AI.md",
     "Definitions/heuristic.md",
     "Definitions/signature based detection.md",
-    "Definitions/anti-virus.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 11.md",
-    "Definitions/unified extensible firmware interface UEFI.md",
-    "Definitions/hardware root of trust.md",
-    "Definitions/security enclave.md",
-    "Definitions/trusted platform module TPM.md",
-    "Definitions/sealing.md",
-    "Definitions/binding.md",
-    "Definitions/measured boot.md",
-    "Definitions/secure boot.md",
-    "Definitions/hardware vulnerabilities.md",
-    "Definitions/firmware.md",
-    "basic input/output system BIOS.md",
     "basic input",
-    "Definitions/operating system vulnerabilities.md",
-    "Definitions/4.5 Given a scenario, modify enterprise capabilities to enhance security..md",
-    "Comptia Security+ Certification/4.4 Explain security alerting and monitoring concepts and tools..md",
-    "Definitions/4.2 Explain the security implications of proper hardware, software, and data asset management..md",
-    "Definitions/decommissioning.md",
-    "Definitions/asset tracking.md",
-    "Definitions/assignment and accounting.md",
     "attachments/Pasted image 20250525135404.png",
     "attachments/Pasted image 20250525134908.png",
     "stored",
