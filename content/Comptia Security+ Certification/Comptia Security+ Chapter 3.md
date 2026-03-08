@@ -31,6 +31,7 @@ What is the difference between [[spyware]] and [[bloatware]]? And how are they s
 What are the two components of viruses?
 What are the different [[virus variates]]?
 Why are [[fileless virus|fileless viruses]] dangeours?
+[[when malware runs|How could malware run on you systems]]?
 # Read
 Focus on answering the questions, come up with more as necessary.
 # Write
