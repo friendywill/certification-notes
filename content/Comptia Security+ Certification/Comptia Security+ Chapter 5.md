@@ -24,3 +24,4 @@ aliases:
 [[CVE]]
 
 Read over exam essentials again
+Continue professor Messer 4.4
