@@ -1,0 +1,1 @@
+where user's traffic (internal) is scrutinized based on certain policies

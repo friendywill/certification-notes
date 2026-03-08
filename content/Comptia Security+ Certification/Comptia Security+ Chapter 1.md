@@ -17,7 +17,7 @@ aliases:
 [[1.1 Compare and contrast various types of security controls.]]
 [[1.2 Summarize fundamental security concepts.]]
 [[1.4 Explain the importance of using appropriate cryptographic solutions.]]
-[[3.3 Concepts and strategies to protect data.]]
+[[Definitions/3.3 Compare and contrast concepts and strategies to protect data.]]
 [[5.2 Explain elements of the risk management process.]]
 
 # Survey

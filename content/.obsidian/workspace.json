@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63754c20dc584700",
+        "id": "b7ea98a5a0f384a3",
         "type": "tabs",
         "children": [
           {
-            "id": "0fadf4b7ce07bd0c",
+            "id": "2861e90aeb9187f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Uninterruptable Power Supply UPS.md",
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Uninterruptable Power Supply UPS"
+              "title": "Comptia Security+ Chapter 10"
+            }
+          },
+          {
+            "id": "5029b1ba46bd0ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/hardening cloud infrastructure.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hardening cloud infrastructure"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,34 +247,36 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0fadf4b7ce07bd0c",
+  "active": "5029b1ba46bd0ad2",
   "lastOpenFiles": [
-    "Definitions/people capacity planning.md",
-    "Definitions/Uninterruptable Power Supply UPS.md",
-    "Definitions/load balancing.md",
-    "Definitions/clustering.md",
-    "Definitions/Access control vestibule.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 9.md",
-    "Definitions/environmental attacks.md",
-    "Definitions/physical security control category.md",
-    "Definitions/Sensors.md",
-    "Definitions/security cameras.md",
-    "Definitions/Closed Circuit Television CCTV.md",
-    "Definitions/testing resilience and recovery control designs.md",
-    "Definitions/parallel processing.md",
-    "Definitions/simulation.md",
-    "Definitions/tabletop exercises.md",
-    "Definitions/3.4 Explain the importance of resilience and recovery in security architecture.md",
-    "Definitions/capacity planning.md",
-    "Definitions/infrastructure capacity planning.md",
-    "Definitions/technology capacity planning.md",
-    "Definitions/site resilience.md",
-    "Definitions/warm site.md",
-    "Definitions/cold site.md",
-    "Definitions/hot site.md",
-    "Definitions/scalability.md",
-    "Definitions/restoration to last-known good configuration.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 8.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 10.md",
+    "Definitions/governance and auditing of third-party vendors.md",
+    "Definitions/API inspection.md",
+    "Definitions/cloud security issues.md",
+    "Definitions/devops.md",
+    "Definitions/cloud networking.md",
+    "Definitions/cloud storage resources.md",
+    "Definitions/containerization.md",
+    "Definitions/virtualisation.md",
+    "Definitions/cloud controls matrix.md",
+    "Definitions/cloud deployment models.md",
+    "Definitions/cloud roles.md",
+    "Definitions/cloud.md",
+    "Definitions/public cloud.md",
+    "Definitions/hardening cloud infrastructure.md",
+    "Definitions/secretes management.md",
+    "Definitions/cloud access security brokers CASB.md",
+    "Definitions/secure web gateways SWG.md",
+    "Definitions/virtualisation security.md",
+    "Definitions/virtual private cloud VPC.md",
+    "Definitions/hypervisor.md",
+    "attachments/Pasted image 20250525135404.png",
+    "Definitions/responsibility matrix.md",
+    "attachments/Pasted image 20250525134908.png",
+    "Definitions/Infrastructure as a Service IaaS.md",
+    "Definitions/elasticity.md",
+    "Definitions/4.1 Given a scenario, apply common security techniques to computing resources..md",
+    "Definitions/hardening targets.md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",

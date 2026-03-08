@@ -1,0 +1,1 @@
+a way to run many different virtual computers that each host their own operating system, which run on a [[hypervisor]]

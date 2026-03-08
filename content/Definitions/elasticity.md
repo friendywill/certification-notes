@@ -1,1 +1,1 @@
-[[scalability]], but with automatic resource provisioning and deprovisioning
+[[scalability]], but with automatic resource provisioning and deprovisioning, where something can quite easily "expand" or "contract" so-to-speak
