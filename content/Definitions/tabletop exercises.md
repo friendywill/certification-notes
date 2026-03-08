@@ -1,0 +1,1 @@
+discussion of [[resilience]] and [[disaster recovery]], with the goal of help validate the current [[resilience]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25a285f34d99ac03",
+        "id": "63754c20dc584700",
         "type": "tabs",
         "children": [
           {
-            "id": "acd5d5946aaece94",
+            "id": "c9ab9df3ae490ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Comptia Security+ Chapter 9"
+            }
+          },
+          {
+            "id": "0fadf4b7ce07bd0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/people capacity planning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "people capacity planning"
             }
           }
         ]
@@ -222,34 +246,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "acd5d5946aaece94",
+  "active": "c9ab9df3ae490ec6",
   "lastOpenFiles": [
-    "Definitions/live-boot media.md",
+    "Definitions/environmental attacks.md",
+    "Definitions/physical security control category.md",
+    "Definitions/Sensors.md",
+    "Definitions/security cameras.md",
+    "Definitions/Closed Circuit Television CCTV.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 9.md",
-    "Definitions/non-persistance.md",
-    "Definitions/cloud backup considerations.md",
-    "Definitions/nearline backups.md",
-    "Definitions/journaling.md",
-    "Definitions/replication.md",
-    "Definitions/backups.md",
-    "Definitions/Redundant Array of Inexpensive Disks RAID.md",
-    "Comptia Security+ Certification/2.4 Given a scenario, analyze indicators of malicious activity.md",
-    "Comptia Security+ Certification/3.1 Compare and contrast security implications of different architecture models..md",
-    "Definitions/architecture model considerations.md",
+    "Definitions/testing resilience and recovery control designs.md",
+    "Definitions/parallel processing.md",
+    "Definitions/simulation.md",
+    "Definitions/tabletop exercises.md",
     "Definitions/3.4 Explain the importance of resilience and recovery in security architecture.md",
-    "Definitions/continuity of operations.md",
-    "Definitions/architectural considerations and security.md",
-    "Definitions/redundancy.md",
-    "Definitions/protection of power.md",
-    "Definitions/redundant network devices.md",
-    "Definitions/multipath.md",
-    "Definitions/power.md",
-    "Definitions/Uninterruptable Power Supply UPS.md",
-    "Definitions/testing.md",
     "Definitions/capacity planning.md",
-    "Definitions/Site considerations.md",
-    "Definitions/physical attack.md",
-    "Comptia Security+ Certification/1.2 Summarize fundamental security concepts..md",
+    "Definitions/infrastructure capacity planning.md",
+    "Definitions/technology capacity planning.md",
+    "Definitions/people capacity planning.md",
+    "Definitions/site resilience.md",
+    "Definitions/warm site.md",
+    "Definitions/cold site.md",
+    "Definitions/hot site.md",
+    "Definitions/scalability.md",
+    "Definitions/restoration to last-known good configuration.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 8.md",
+    "Definitions/non-persistance.md",
+    "Definitions/Recovery Time Objectives RTO.md",
+    "Definitions/Recovery Point Objectives RPO.md",
+    "Definitions/live-boot media.md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",

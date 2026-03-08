@@ -1,0 +1,1 @@
+similar to [[hot site]], but no live data

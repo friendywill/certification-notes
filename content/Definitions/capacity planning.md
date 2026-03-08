@@ -1,3 +1,3 @@
-- [[people]]
-- [[technology]]
-- [[infrastructure]]
+- [[people capacity planning]]
+- [[technology capacity planning]]
+- [[infrastructure capacity planning]]

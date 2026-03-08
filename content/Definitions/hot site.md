@@ -1,0 +1,1 @@
+a secondary site with all the [[infrastructure]] and [[data]] needed to operate the organisation. Typically traffic is split towards this site, if it or another goes down, the other will still be running

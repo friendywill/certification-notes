@@ -1,0 +1,1 @@
+the least expensive type of site, where the physical [[infrastructure]] exists, but there is no live data or prepared software systems

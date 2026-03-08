@@ -34,9 +34,18 @@ aliases:
 [[VM images]]
 [[nearline backups]]
 [[cloud backup considerations]]
-[[non-persistance]] --needs more work
+[[non-persistance]]
 [[restoration to last-known good configuration]]
 [[live-boot media]]
+[[scalability]]
+[[site resilience]]
+[[capacity planning]]
+[[testing resilience and recovery control designs]]
+[[physical security control category]]
+
+watch professor messor's videos
+
+
 continue from 281
 
 

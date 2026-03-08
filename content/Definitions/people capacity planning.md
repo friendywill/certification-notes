@@ -1,0 +1,1 @@
+planning for the amount of people with certain skills are hired within or hirable/contractable when a disaster occurs. Third parties may even be used

@@ -1,0 +1,1 @@
+the capacity that specific [[infrastructure]] items need, EG storage device throughput

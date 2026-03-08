@@ -1,0 +1,1 @@
+where a state is reset to an original one when required

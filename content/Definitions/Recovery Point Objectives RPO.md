@@ -1,0 +1,1 @@
+the most amount of data that can be lost between a period of time
