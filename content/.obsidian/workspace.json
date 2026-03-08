@@ -1684,6 +1684,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 1, Review 2"
+            }
+          },
+          {
+            "id": "f12499055bd519f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
                 "mode": "source",
                 "source": false,
@@ -1703,7 +1727,7 @@
             }
           }
         ],
-        "currentTab": 70
+        "currentTab": 71
       }
     ],
     "direction": "vertical"
@@ -1894,14 +1918,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "53815aa34e1ce94b",
+  "active": "f12499055bd519f8",
   "lastOpenFiles": [
-    "Definitions/cybersecurity threat classifications.md",
+    "Comptia Security+ Certification/Monologue/Lacking.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
+    "Comptia Security+ Certification/Monologue",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
+    "Definitions/security control types.md",
+    "Definitions/security control categories.md",
+    "Definitions/cybersecurity risk categories.md",
+    "Definitions/data breach risks.md",
+    "Definitions/cybersecurity threat classifications.md",
     "Definitions/cybersecurity threats.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
     "Templates/Definition Template.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 1.md",
     "Comptia Security+ Certification/Comptia Security+ Failed Practice Questions.md",
     "Comptia Security+ Certification/Comptia Security+ Plan.md",
@@ -1917,11 +1947,6 @@
     "Definitions/geographic access restriction.md",
     "Definitions/data minimisation.md",
     "Definitions/data loss prevention.md",
-    "Definitions/partial redactions.md",
-    "Definitions/tokenization.md",
-    "Definitions/agent-based DLP.md",
-    "Definitions/agentless-DLP.md",
-    "Definitions/data encryption.md",
     "Definitions",
     "attachments/Pasted image 20250130181104.png",
     "attachments/Pasted image 20250130180921.png",
@@ -1933,7 +1958,6 @@
     "Self-Management/Objectives",
     "Self-Management/Goals",
     "Finance",
-    "Self-Management/Options",
     "Untitled.canvas"
   ]
 }

@@ -50,7 +50,7 @@ The different data breach risks include:
 - Compliance
 	This risk is more concerned about what could happen if an incident where to occur, and it exposed the company to which it was not following its legal obligations.
 
-What are all of the different [[security control categories]]? Describe how a control would fall under that category.
+What are all of the different [[security control types]]? Describe how a control would fall under that category.
 - Technical
 	Where the control is implemented at the cyber level and is automated, EG ACLs or firewall rules.
 - Managerial
@@ -59,7 +59,7 @@ What are all of the different [[security control categories]]? Describe how a co
 	The security processes implemented in day to day tasks, to ensure those activities do not compromise CIA.
 - Physical
 	Where there is some form of tangible protection, EG biometric lock too a door or computer.
-What are all of the different [[security control types]]? Describe how a control falls under a certain type.
+What are all of the different [[security control categories]]? Describe how a control falls under a certain type.
 - Preventative
 	Where the control stops some potential attack from succeeding through some measure.
 - Deterrent

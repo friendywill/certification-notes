@@ -7,18 +7,18 @@ How could organisations meet these [[cybersecurity objectives]]?
 What are the different [[data breach risks]]? And what are the effects of these breaches?
 Who are the people causing fear of [[data breach risks]]?
 How are [[data breach risks]] caused?
-What is the [[DAD triad]]? How does it fulfil the goal it sets to achieve? What are the different types of [[cybersecurity risks]] and the [[cybersecurity risk categories]]?
-What are all of the different [[security control types]]?
-What are the challenges faced when implementing [[security control types]]?
+What is the [[DAD triad]]? How does it fulfil the goal it sets to achieve? What are the [[cybersecurity risk categories]]?
+What are all of the different [[security control categories]]?
 What are the challenges faced when implementing [[security control categories]]?
-How do [[security control types]] fulfil what they are set out to do?
+What are the challenges faced when implementing [[security control types]]?
 How do [[security control categories]] fulfil what they are set out to do?
+How do [[security control types]] fulfil what they are set out to do?
 How would a [[gap analysis]] be done?
 What concepts exist for [[data protection]]? How do these protection mechanisms fulfil their role?
 How is the [[CIA triad]] triad and the [[DAD triad]]  related?
 What is [[data exfiltration]]?
 What are [[security controls]]? How is it related to a [[gap analysis]]?
-How are [[security control types]] determined to be [[security control types]]?
+How are [[security control categories]] determined to be [[security control categories]]?
 What are the two different ways [[data loss prevention]] works?
 What are the mechanisms of action for [[data loss prevention]]?
 What is [[digital rights management (DRM)]]?
