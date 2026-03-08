@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "attachments"
+}
