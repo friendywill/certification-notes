@@ -19,3 +19,4 @@ The CompTIA Security+ certification exam will certify the successful candidate h
 The Exam itself will comprise mostly of multiple choice questions, and some performance based questions, which include:
 - Completing a task
 - Matching, sorting, drag-and-drop, etc.
+People who have completed the exam claimed that their is quite a few different acronyms to remember, and that having some practical knowledge will help.
