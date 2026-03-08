@@ -1,0 +1,1 @@
+a way of telling a user what rights they have to content

@@ -1,0 +1,1 @@
+where a network is cut off from other networks; no other networks can access an isolated network, and vice versa.

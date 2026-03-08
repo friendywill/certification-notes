@@ -1,0 +1,1 @@
+where some of the data is replaced with X's, then the rest of the data still exists

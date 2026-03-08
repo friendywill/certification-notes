@@ -1,0 +1,1 @@
+when [[cybersecurity risks]] occur, this control will somewhat or completely correct the damage occurred

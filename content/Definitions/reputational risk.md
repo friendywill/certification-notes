@@ -1,0 +1,1 @@
+where the company could suffer from declining stakeholder opinion due to some [[cybersecurity risks|cybersecurity risk]]

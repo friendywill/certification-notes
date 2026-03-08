@@ -1,0 +1,5 @@
+[[financial risk]]
+[[reputational risk]]
+[[compliance risk]]
+[[strategic risk]]
+[[operational risk]]

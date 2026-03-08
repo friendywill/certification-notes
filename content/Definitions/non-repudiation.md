@@ -1,0 +1,1 @@
+The assurance that some action cannot be denied by some party when they legitimately did that action. An example would be [[digital signature|digital signatures]]

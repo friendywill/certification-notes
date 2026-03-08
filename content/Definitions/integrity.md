@@ -1,0 +1,1 @@
+the assurance that data has not undergone any [[alteration]]

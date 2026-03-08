@@ -1,0 +1,1 @@
+where the company's business plan execution is affected, requiring a rethink of the company's strategy, due to some [[cybersecurity risks|cybersecurity risk]] 

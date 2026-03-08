@@ -1,0 +1,1 @@
+some measure that is closing the gap that is alternative of the ideal, yet impractical (could be due to cost, time, or the high risk to break production), solution to implement to deal with some [[cybersecurity risks]].

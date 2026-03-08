@@ -1,0 +1,1 @@
+where someone is either granted or denied a request based on what they have been listed as allowed to request

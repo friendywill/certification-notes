@@ -1,0 +1,1 @@
+the process of determining the organisation's security posture and what the desired security posture is, everything in between is the gap.

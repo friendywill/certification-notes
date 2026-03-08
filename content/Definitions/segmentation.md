@@ -1,0 +1,1 @@
+where a network is logically separated by a subnet, firewall, VLAN, etc.

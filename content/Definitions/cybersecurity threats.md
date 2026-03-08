@@ -1,0 +1,1 @@
+something or someone who poses a threat which could compromise [[cybersecurity]].

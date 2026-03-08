@@ -87,10 +87,27 @@ What are [[security controls]]? How is it related to a [[gap analysis]]?
 What are the two different ways [[data loss prevention]] works?
 - Agent-based and network based as explained above.
 What are the mechanisms of action for [[data loss prevention]]?
-- Data encryption
-- Data deletion
-What is [[digital rights management (DRM)]]?
+- Water Marking
+	Where a document or other type of file, has some background text taking up the enter page that reads "confidential", or something similar. The document itself remains readable.
+- Pattern Matching
+	Where a regular expression is used to match certain phrases or [[Personally Identifiable Information (PII)]]. Some action is usually taken by the DLP system once the pattern is matched.
+	
+What different states can data be in?
+- At rest, stored somewhere on some non-volatile storage.
+- In use, data within volatile storage.
+- In transit, when the data is transmitted over a network.
+
 What is [[data minimisation]]?
+- The process of ensuring that sensitive data is obfuscated and / or removed from a dataset.
+
 What are the different methods for [[data minimisation]] and how do they work?
+- Hashing, the data is obfuscated and cannot be reversed. Not typically recommended when the data is repeated often with Rainbow table attacks easily overcoming this protection.
+- Tokenisation, where the data is obfuscated by some unique id, which is stored alongside the data on a separate, but (theoretically) secure location.
+- Partial Redaction, where the data is redacted with some of it still remaining, eg the last 4 digits of your credit card XXXX XXXX XXXX 2398
+
 What are the two types of [[access restrictions]]?
+- Permissions restrictions, where a group or user is given or denied permission to a specified resource / sub-resource/s
+- Geographic restrictions, where even if a user is authenticated, they are still subject to their location on whether they can or cannot access the data. Similar to the permissions restrictions, there is a list of locations or location groups that are allowed and denied.
 What is the different between [[segmentation]] and [[isolation]]?
+- Segmentation involves logically seperating networks by either a subnet, vlan, or behind another firewall.
+- Isolation is where a network or client is inaccessible through the network.

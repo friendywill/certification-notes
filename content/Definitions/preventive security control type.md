@@ -1,0 +1,1 @@
+a control which is designed to prevent some [[cybersecurity risks]] from occuring
