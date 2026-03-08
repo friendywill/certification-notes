@@ -1,4 +1,5 @@
 {
   "accentColor": "#1e00ff",
-  "cssTheme": "Things"
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 17
 }

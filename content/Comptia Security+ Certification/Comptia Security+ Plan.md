@@ -1,4 +1,12 @@
-## Price of Exam
+---
+tags:
+  - "#exam"
+  - "#domains"
+  - "#sub-domains"
+created: 29/01/2025
+aliases:
+---
+## Price of Exam (Now Purchased)
 
 ### Exam Voucher
 $545
@@ -6,9 +14,9 @@ $545
 ### Self-Paced Study Guide and Exam Voucher (+Retake)
 $849
 
-### Amazon Self-Paced Study Guide and Extra Practice Tests
-[CompTIA Security+ Certification Kit: Exam SY0-701 : Chapple, Mike, Seidl, David: Amazon.com.au: Books](https://www.amazon.com.au/dp/1394211449)
-$83 and a 10% discount on the exam voucher
+### ==Amazon Self-Paced Study Guide and Extra Practice Tests==
+==[CompTIA Security+ Certification Kit: Exam SY0-701 : Chapple, Mike, Seidl, David: Amazon.com.au: Books](https://www.amazon.com.au/dp/1394211449)==
+==$83 and a 10% discount on the exam voucher==
 
 ## Overview
 
@@ -19,7 +27,7 @@ I have 2 years as a system administrator with two separate university degrees (m
 
 ## Activities for each week
 
-1. Read through each respective chapter in the study guide,
+1. Read through each respective chapter in the [[Comptia Security+ study guide book]],
 2. View [Professor Messer’s CompTIA SY0-701 Security+ Course - Professor Messer IT Certification Training Courses](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/). From other YouTuber's who have passed the exam, his course was highly recommended.
 3. Use flashcards to remember key concepts.
 4. Answer questions in the self-paced study guide.
