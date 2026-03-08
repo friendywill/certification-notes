@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9ab9df3ae490ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 9.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 9"
-            }
-          },
-          {
             "id": "0fadf4b7ce07bd0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/people capacity planning.md",
+                "file": "Definitions/Uninterruptable Power Supply UPS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "people capacity planning"
+              "title": "Uninterruptable Power Supply UPS"
             }
           }
         ]
@@ -246,14 +222,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c9ab9df3ae490ec6",
+  "active": "0fadf4b7ce07bd0c",
   "lastOpenFiles": [
+    "Definitions/people capacity planning.md",
+    "Definitions/Uninterruptable Power Supply UPS.md",
+    "Definitions/load balancing.md",
+    "Definitions/clustering.md",
+    "Definitions/Access control vestibule.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 9.md",
     "Definitions/environmental attacks.md",
     "Definitions/physical security control category.md",
     "Definitions/Sensors.md",
     "Definitions/security cameras.md",
     "Definitions/Closed Circuit Television CCTV.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 9.md",
     "Definitions/testing resilience and recovery control designs.md",
     "Definitions/parallel processing.md",
     "Definitions/simulation.md",
@@ -262,7 +243,6 @@
     "Definitions/capacity planning.md",
     "Definitions/infrastructure capacity planning.md",
     "Definitions/technology capacity planning.md",
-    "Definitions/people capacity planning.md",
     "Definitions/site resilience.md",
     "Definitions/warm site.md",
     "Definitions/cold site.md",
@@ -270,10 +250,6 @@
     "Definitions/scalability.md",
     "Definitions/restoration to last-known good configuration.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 8.md",
-    "Definitions/non-persistance.md",
-    "Definitions/Recovery Time Objectives RTO.md",
-    "Definitions/Recovery Point Objectives RPO.md",
-    "Definitions/live-boot media.md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",

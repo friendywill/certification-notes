@@ -1,0 +1,1 @@
+where one door is locked when another is unlocked, providing an [[airgap]] to prevent [[oiggybacker]]

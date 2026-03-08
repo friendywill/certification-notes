@@ -1,0 +1,1 @@
+where nodes are aware of eachother and can work together to provide a distributed system

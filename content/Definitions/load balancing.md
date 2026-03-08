@@ -1,0 +1,1 @@
+where Internet traffic is balanced accross multiple nodes, the nodes do not necessarily know of eachother like in [[clustering]], yet they technically can
