@@ -60,8 +60,17 @@
               "state": {
                 "file": "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 1.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Comptia Security+ Chapter 1, Review 1"
@@ -87,7 +96,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -254,20 +264,19 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "998650f91edd3e55",
   "lastOpenFiles": [
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 1.md",
     "Comptia Security+ Certification/Comptia Security+ Exam.md",
     "Comptia Security+ Certification/Availability.md",
     "Templates/Study Chapter Template.md",
     "Comptia Security+ Certification/Comptia Security+ Plan.md",
     "index.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 1.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
     "Comptia Security+ Certification/impacts.md",
     "Comptia Security+ Certification/Comptia Security+ study guide book.md",
     "attachments/Pasted image 20250130181104.png",

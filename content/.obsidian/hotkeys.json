@@ -1,13 +1,5 @@
 {
   "editor:delete-paragraph": [],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
   "table-editor-obsidian:table-control-bar": [],
   "daily-notes:goto-prev": [
     {
