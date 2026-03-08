@@ -51,7 +51,7 @@ Review over some of the math I did in University for cryptography.
 
 Review (Week 3): Spend 2 hours revisiting General Security Concepts from Week 1.
 
-## Weeks 4-5: Security Architecture (18%)
+## Weeks 4: Security Architecture (18%)
 
 [[3.1 Compare and contrast security implications of architecture models.]]
 
@@ -63,7 +63,7 @@ Review (Week 3): Spend 2 hours revisiting General Security Concepts from Week 1.
 
 Review (Week 5): Spend 2 hours reviewing Threats, Vulnerabilities, and Mitigations.
 
-## Week 6: Focused Review Week (52% of the exam covered)
+## Week 5: Focused Review Week (52% of the exam covered)
 
 Review all previous domains: General Security Concepts, Threats, Vulnerabilities, and Mitigations, and Security Architecture.
 
@@ -71,7 +71,7 @@ Take a full-length practice exam and take note of weak areas.
 
 Focus additional time on topics requiring improvement.
 
-## Weeks 7-8: Security Operations (28%)
+## Weeks 6-7: Security Operations (28%)
 
 [[4.1 Given a scenario, apply common security techniques to computing resources.]]
 
@@ -91,9 +91,9 @@ Focus additional time on topics requiring improvement.
 
 [[4.9 Using data sources for investigations.]]
 
-Review (Week 8): Spend 2 hours revisiting Security Architecture.
+Review (Week 7): Spend 2 hours revisiting Security Architecture.
 
-## Week 9: Security Program Management and Oversight (20%)
+## Week 8-9: Security Program Management and Oversight (20%)
 
 [[5.1 Summarize elements of effective security governance.]]
 
