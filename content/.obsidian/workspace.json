@@ -2140,54 +2140,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 2, Review 1"
-            }
-          },
-          {
-            "id": "99f2035f370f9ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/threat actor motivations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "threat actor motivations"
-            }
-          },
-          {
-            "id": "019efa599dc2d99a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Comptia Security+ Certification/Comptia Security+ Chapter 3.md",
                 "mode": "source",
                 "source": false,
@@ -2207,7 +2159,7 @@
             }
           }
         ],
-        "currentTab": 91
+        "currentTab": 89
       }
     ],
     "direction": "vertical"
@@ -2398,34 +2350,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "019efa599dc2d99a",
+  "active": "a3228fa72e08b7fa",
   "lastOpenFiles": [
+    "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
+    "Definitions/malware types.md",
+    "Definitions/rootkit.md",
+    "Definitions/logic bomb.md",
+    "Definitions/keyloggers.md",
+    "Definitions/virus.md",
+    "Definitions/spyware.md",
+    "Definitions/bloatware.md",
+    "Definitions/worms.md",
+    "Definitions/trojans.md",
+    "Definitions/Command and Control C&C traffic.md",
+    "Definitions/ransomware.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 3.md",
+    "Definitions/malware type IoCs.md",
+    "Definitions/Indicators of Compromise IoCs.md",
+    "Definitions/indicators of compromise IoC.md",
+    "Definitions/fileless virus.md",
+    "Definitions/virus variates.md",
+    "Definitions/threat actor motivations.md",
+    "Definitions/malware.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 3.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
     "index.md",
     "Definitions/security control categories.md",
     "Definitions/data protection.md",
-    "Definitions/operational security control category.md",
-    "Comptia Security+ Certification/Comptia Security+ Plan.md",
-    "Comptia Security+ Certification/Comptia Security+.md",
-    "Comptia Security+ Certification/3.0 Security Architecture 18%.md",
-    "Definitions/ISACS.md",
-    "Definitions/OASIS.md",
-    "Definitions/standardized security languages.md",
-    "Definitions/STIX.md",
-    "Definitions/threat indicator management.md",
-    "Definitions/threat indicator exchange.md",
-    "Definitions/threat management exchange.md",
-    "Definitions/assessing threat intelligence.md",
-    "Definitions/threat confidence score.md",
-    "Definitions/shadow IT.md",
-    "Definitions/threat data and intelligence systems.md",
-    "Definitions/threat maps.md",
-    "Definitions/closed source intelligence.md",
-    "Definitions/OSINT data sources.md",
     "Comptia Security+ Certification/Monologue",
     "Definitions",
     "attachments/Pasted image 20250130181104.png",

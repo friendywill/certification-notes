@@ -23,15 +23,14 @@ While doing all of these steps, add questions. Ensure to answer on a separate pa
 How is [[malware]] defined in [[Comptia Security+]]
 What are the different types of [[malware types|types of malware]]?
 What are the attributes that help distinguish between [[malware types|types of malware]]?
-What are the different [[indicators of compromise IoC|IoCs]]?
 What are the different IoCs for each malware type?
 What is [[Internet Relay Chart (IRC)| IRC]]?
 What are the different [[malware mitigation|mitigation methods for malware]]?
 How do the different [[malware mitigation|mitigations]] achieve their goal?
-What are the different [[virus types]]?
 What is the difference between [[spyware]] and [[bloatware]]? And how are they similar?
 What are the two components of viruses?
-
+What are the different [[virus variates]]?
+Why are [[fileless virus|fileless viruses]] dangeours?
 # Read
 Focus on answering the questions, come up with more as necessary.
 # Write

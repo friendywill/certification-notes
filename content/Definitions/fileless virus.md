@@ -1,0 +1,1 @@
+where some virus propagates through without needing to write a file, EG emails or websites. To persist without writing a file, they can write registry keys or similar.
