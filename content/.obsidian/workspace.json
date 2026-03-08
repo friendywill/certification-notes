@@ -1636,7 +1636,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/compensating security control type.md",
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -1651,11 +1651,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "compensating security control type"
+              "title": "Comptia Security+ Chapter 1, Review 1"
+            }
+          },
+          {
+            "id": "72719a4c33360213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 2"
+            }
+          },
+          {
+            "id": "53815aa34e1ce94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comptia Security+ Chapter 2"
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 70
       }
     ],
     "direction": "vertical"
@@ -1846,10 +1894,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2e8e761158a691f4",
+  "active": "53815aa34e1ce94b",
   "lastOpenFiles": [
-    "Definitions/digital rights management (DRM).md",
+    "Definitions/cybersecurity threat classifications.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
+    "Definitions/cybersecurity threats.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
+    "Templates/Definition Template.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 1.md",
+    "Comptia Security+ Certification/Comptia Security+ Failed Practice Questions.md",
+    "Comptia Security+ Certification/Comptia Security+ Plan.md",
+    "Comptia Security+ Certification/Comptia Security+ Exam.md",
+    "Definitions/compensating security control type.md",
+    "Definitions/digital rights management (DRM).md",
     "Definitions/data exfiltration.md",
     "Definitions/data protection.md",
     "Definitions/isolation.md",
@@ -1864,16 +1922,6 @@
     "Definitions/agent-based DLP.md",
     "Definitions/agentless-DLP.md",
     "Definitions/data encryption.md",
-    "Definitions/acc.md",
-    "Definitions/gap analysis.md",
-    "Definitions/security control categories.md",
-    "Definitions/directive security control type.md",
-    "Definitions/corrective security control type.md",
-    "Definitions/preventive security control type.md",
-    "Definitions/deterrent security control type.md",
-    "Definitions/detective security control type.md",
-    "Definitions/compensating security control type.md",
-    "Definitions/security control types.md",
     "Definitions",
     "attachments/Pasted image 20250130181104.png",
     "attachments/Pasted image 20250130180921.png",

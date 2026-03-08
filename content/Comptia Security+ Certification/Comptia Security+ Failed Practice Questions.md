@@ -8,7 +8,7 @@ aliases:
 
 | Chapters/Domains | Total Failed |
 | ---------------- | ------------ |
-| Chapter 1        | 0            |
+| Chapter 1        | 2            |
 | Chapter 2        | 0            |
 | Chapter 3        | 0            |
 | Chapter 4        | 0            |
