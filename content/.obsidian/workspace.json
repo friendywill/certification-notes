@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a50ba86c75f3ce",
+        "id": "a14fdb88f28565f5",
         "type": "tabs",
         "children": [
           {
-            "id": "a51fe5b89961d881",
+            "id": "9f813d0b20b8a2b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 8.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 8"
+              "title": "New tab"
             }
           }
         ]
@@ -222,34 +208,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a51fe5b89961d881",
+  "active": "9f813d0b20b8a2b7",
   "lastOpenFiles": [
-    "Definitions/Identity Provider IdP.md",
+    "Definitions/Attribute-Based Access Control ABAC.md",
+    "Definitions/Mandatory Access Control MAC.md",
+    "Definitions/federation.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 8.md",
-    "Definitions/cryptographic attacks.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
-    "Definitions/Single Sign-On SSO.md",
-    "Definitions/OpenID.md",
-    "Definitions/Security Assertions Markup Language SAML.md",
-    "Definitions/Open Authentication OAuth.md",
-    "Definitions/Lightweight Directory Access Protocol LDAP.md",
-    "Definitions/Kerberos.md",
-    "Definitions/Kerberos instance.md",
-    "Definitions/Kerberos primary.md",
-    "Definitions/Kerberos realm.md",
-    "Definitions/Terminal Access Controller Access Control System Plus TACACS+.md",
-    "Definitions/Remote Dial-In User Service RADIUS.md",
-    "Definitions/802.1X.md",
-    "Definitions/Challenge Handshake Authentication Protocol CHAP.md",
-    "Definitions/Extensible Authentication Protocol EAP.md",
-    "Definitions/claims to identity.md",
-    "Definitions/traits.md",
-    "Definitions/attributes.md",
-    "Definitions/4.6 Given a scenario, implement and maintain identity and access management..md",
-    "Definitions/user provisioning.md",
-    "Definitions/2.5 Explain the purpose of mitigation techniques used to secure the enterprise..md",
-    "Definitions/access control.md",
-    "Comptia Security+ Certification/1.2 Summarize fundamental security concepts..md",
+    "Definitions/Open Authorization OAuth.md",
+    "Definitions/Identity and Access Management IAM.md",
+    "Definitions/principle of least access.md",
+    "Definitions/authentication interoperability.md",
+    "Definitions/Discretionary Access Control DAC.md",
+    "Definitions/filesystem permissions.md",
+    "Definitions/access control scheme.md",
+    "Definitions/Rule-Based Access Control RuBAC.md",
+    "Definitions/Role-Based Access Control RBAC.md",
+    "Definitions/Privileged Access Management PAM.md",
+    "Definitions/Password vaulting.md",
+    "Definitions/account deprovisioning.md",
+    "Definitions/account provisioning.md",
+    "Definitions/permissions management.md",
+    "Definitions/accounts.md",
+    "Definitions/identity proofing.md",
+    "Definitions/Multi-Factor Authentication MFA.md",
+    "Definitions/somewhere you are authentication.md",
+    "Definitions/something you have authentication.md",
+    "Definitions/something you are authentication.md",
+    "Definitions/biometric authentication.md",
+    "Definitions/Receiver Operating Characteristic ROC.md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",

@@ -19,6 +19,7 @@ aliases:
 
 [[attributes]]
 [[traits]]
+[[Identity and Access Management IAM]]
 [[claims to identity]]
 [[Extensible Authentication Protocol EAP]]
 [[Challenge Handshake Authentication Protocol CHAP]]
@@ -28,6 +29,17 @@ aliases:
 [[Kerberos]]
 [[Single Sign-On SSO]]
 [[Identity Provider IdP]]
+[[federation]]
+[[attestation]]
+[[Relying Party RP]]
+[[password guidelines]]
+[[Multi-Factor Authentication MFA]]
+[[accounts]]
+[[account provisioning]]
+[[account deprovisioning]]
+[[Privileged Access Management PAM]]
+[[access control scheme]]
+[[filesystem permissions]]
 
 
 # Survey

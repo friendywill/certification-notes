@@ -1,0 +1,1 @@
+basically [[filesystem permissions]], but not just for files

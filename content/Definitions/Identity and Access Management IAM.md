@@ -1,0 +1,2 @@
+the lifecycle of [[access control]] for [[accounts]], following [[authentication, authorization and accounting (AAA)]], starts with [[user provisioning]], ends with [[account deprovisioning]].
+should follow [[principle of least access]]

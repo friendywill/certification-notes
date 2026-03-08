@@ -1,0 +1,1 @@
+rejection of [[biometric authentication]] even though the subject was legitimate

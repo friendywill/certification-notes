@@ -1,0 +1,5 @@
+- reduce complexity but emphasise length
+- not requiring special characters
+- allowing pasting into password fields for [[password managers]]
+- monitor new passwords for compromised ones
+- eliminate password hints

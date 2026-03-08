@@ -1,0 +1,1 @@
+where many different [[Identity Provider IdP]]s can cross communicate, making [[federation]] possible

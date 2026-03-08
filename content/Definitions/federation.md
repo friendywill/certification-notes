@@ -1,0 +1,1 @@
+an environment where there is a principle (user), [[Identity Provider IdP]], and [[Service Party SP]]

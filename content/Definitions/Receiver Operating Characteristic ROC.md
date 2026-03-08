@@ -1,0 +1,1 @@
+the comparison of both [[False Acceptance Rate FAR type 2 error]] and [[False Rate Rejection FFR type 1 error]] to gain results of the effectiveness of the [[biometric authentication]]

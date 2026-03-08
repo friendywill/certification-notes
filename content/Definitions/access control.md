@@ -1,2 +1,2 @@
 - [[access control list]]
-- [[permissions]]
+- [[permissions management]]

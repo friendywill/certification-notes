@@ -1,0 +1,1 @@
+where roles are assigned to users, and they are assigned permissions to that role and authorized against that role.

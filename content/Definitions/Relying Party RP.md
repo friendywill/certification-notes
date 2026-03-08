@@ -1,0 +1,1 @@
+similar to a [[Service Party SP]]

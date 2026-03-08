@@ -1,4 +1,4 @@
 - [[Lightweight Directory Access Protocol LDAP]]
-- [[Open Authentication OAuth]]
+- [[Open Authorization OAuth]]
 - [[Security Assertions Markup Language SAML]]
 - [[OpenID]]

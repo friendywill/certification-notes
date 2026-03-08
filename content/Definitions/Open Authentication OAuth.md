@@ -1,1 +1,0 @@
-provides a method for users to determine what information to provide to third-party applciations
