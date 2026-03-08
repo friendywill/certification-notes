@@ -1,0 +1,1 @@
+where more than one channels are used for communication, EG LACP

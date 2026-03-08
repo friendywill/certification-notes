@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a14fdb88f28565f5",
+        "id": "25a285f34d99ac03",
         "type": "tabs",
         "children": [
           {
-            "id": "9f813d0b20b8a2b7",
+            "id": "acd5d5946aaece94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 9.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Comptia Security+ Chapter 9"
             }
           }
         ]
@@ -208,34 +222,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9f813d0b20b8a2b7",
+  "active": "acd5d5946aaece94",
   "lastOpenFiles": [
-    "Definitions/Attribute-Based Access Control ABAC.md",
-    "Definitions/Mandatory Access Control MAC.md",
-    "Definitions/federation.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 8.md",
-    "Definitions/Open Authorization OAuth.md",
-    "Definitions/Identity and Access Management IAM.md",
-    "Definitions/principle of least access.md",
-    "Definitions/authentication interoperability.md",
-    "Definitions/Discretionary Access Control DAC.md",
-    "Definitions/filesystem permissions.md",
-    "Definitions/access control scheme.md",
-    "Definitions/Rule-Based Access Control RuBAC.md",
-    "Definitions/Role-Based Access Control RBAC.md",
-    "Definitions/Privileged Access Management PAM.md",
-    "Definitions/Password vaulting.md",
-    "Definitions/account deprovisioning.md",
-    "Definitions/account provisioning.md",
-    "Definitions/permissions management.md",
-    "Definitions/accounts.md",
-    "Definitions/identity proofing.md",
-    "Definitions/Multi-Factor Authentication MFA.md",
-    "Definitions/somewhere you are authentication.md",
-    "Definitions/something you have authentication.md",
-    "Definitions/something you are authentication.md",
-    "Definitions/biometric authentication.md",
-    "Definitions/Receiver Operating Characteristic ROC.md",
+    "Definitions/live-boot media.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 9.md",
+    "Definitions/non-persistance.md",
+    "Definitions/cloud backup considerations.md",
+    "Definitions/nearline backups.md",
+    "Definitions/journaling.md",
+    "Definitions/replication.md",
+    "Definitions/backups.md",
+    "Definitions/Redundant Array of Inexpensive Disks RAID.md",
+    "Comptia Security+ Certification/2.4 Given a scenario, analyze indicators of malicious activity.md",
+    "Comptia Security+ Certification/3.1 Compare and contrast security implications of different architecture models..md",
+    "Definitions/architecture model considerations.md",
+    "Definitions/3.4 Explain the importance of resilience and recovery in security architecture.md",
+    "Definitions/continuity of operations.md",
+    "Definitions/architectural considerations and security.md",
+    "Definitions/redundancy.md",
+    "Definitions/protection of power.md",
+    "Definitions/redundant network devices.md",
+    "Definitions/multipath.md",
+    "Definitions/power.md",
+    "Definitions/Uninterruptable Power Supply UPS.md",
+    "Definitions/testing.md",
+    "Definitions/capacity planning.md",
+    "Definitions/Site considerations.md",
+    "Definitions/physical attack.md",
+    "Comptia Security+ Certification/1.2 Summarize fundamental security concepts..md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",
