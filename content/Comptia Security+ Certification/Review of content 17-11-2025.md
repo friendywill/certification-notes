@@ -1,0 +1,1 @@
+Completed assessment quiz and chapters 1 to 3, the next steps are to review the questions where I went wrong
