@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/security control types.md",
+                "file": "Definitions and Concepts/threat vectors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,16 +220,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "security control types"
+              "title": "threat vectors"
             }
           },
           {
-            "id": "6b32ea6a2c7ff38b",
+            "id": "d6648adb2059f871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/vulnerability management.md",
+                "file": "Definitions/human vectors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,31 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vulnerability management"
-            }
-          },
-          {
-            "id": "00435f9ee7c60505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/security control categories.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "security control categories"
+              "title": "human vectors"
             }
           },
           {
@@ -1991,36 +1967,12 @@
             }
           },
           {
-            "id": "e4169080501ade34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/threat actor types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "threat actor types"
-            }
-          },
-          {
             "id": "14b29ea6292bdecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -2035,49 +1987,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 2, Review 1"
-            }
-          },
-          {
-            "id": "d44bee8bc77f6dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/hackers hats.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "hackers hats"
-            }
-          },
-          {
-            "id": "db961954a29be7bb",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "content/Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
-                "bFile": "content/Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Comptia Security+ Chapter 1, Review 2"
+              "title": "Comptia Security+ Chapter 4"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 82
       }
     ],
     "direction": "vertical"
@@ -2268,10 +2182,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6b32ea6a2c7ff38b",
+  "active": "14b29ea6292bdecf",
   "lastOpenFiles": [
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
+    "Comptia Security+ Certification/Comptia Security+ Plan.md",
+    "index.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 4.md",
+    "Definitions/phishing.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 3.md",
+    "Definitions/human vectors.md",
+    "Definitions and Concepts/threat vectors.md",
+    "Definitions/2.4 Given a scenario, analyze indicators of malicious activity.md",
     "Definitions/vulnerability management.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
     "Definitions and Concepts/worms.md",
     "Definitions and Concepts/wired network as a threat vector.md",
     "Definitions and Concepts/why threat actors are categorized.md",
@@ -2286,16 +2209,7 @@
     "Definitions and Concepts/types of vulnerabilities.md",
     "Definitions and Concepts/trojans.md",
     "Definitions and Concepts/tokenization.md",
-    "Definitions and Concepts/threat vectors.md",
     "Definitions and Concepts/threat maps.md",
-    "Definitions and Concepts/threat indicator management.md",
-    "Definitions and Concepts/threat intelligence.md",
-    "Definitions and Concepts/threat indicator exchange.md",
-    "Definitions and Concepts/threat data and intelligence systems.md",
-    "Definitions and Concepts/threat confidence score.md",
-    "Definitions and Concepts/threat actors.md",
-    "Definitions and Concepts/threat actor types.md",
-    "Definitions and Concepts/threat actor motivations.md",
     "Definitions and Concepts",
     "Comptia Security+ Certification/Monologue",
     "Definitions",
