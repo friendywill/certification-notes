@@ -1,0 +1,1 @@
+typically used for network devices, authentication is done with passwords that are obfuscated by a shared secret. The password is [[hash|hashed]] using [[Message-Digest MD5]], so to make it secure, traffic is typically [[data encryption|enypted]] using [[Internet Protocol Security IPSec]]

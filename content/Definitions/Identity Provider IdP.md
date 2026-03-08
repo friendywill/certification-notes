@@ -1,0 +1,1 @@
+a service that allows you to use [[Single Sign-On SSO]] where one account is stored in the IdP for one person, this management of many different service's is known as [[federation]]

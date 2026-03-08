@@ -1,0 +1,1 @@
+separated by trust boundaries and have distinct [[Kerberos Distribution Centres KDC]]

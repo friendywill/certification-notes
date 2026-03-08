@@ -1,0 +1,1 @@
+authentication protocol uses an encrypted challenge and three way handshake

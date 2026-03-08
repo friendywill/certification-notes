@@ -1,0 +1,1 @@
+XML based open standard for exchanging authentication and authorization information

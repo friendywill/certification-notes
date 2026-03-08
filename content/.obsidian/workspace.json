@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6864c72bafec020c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comptia Security+ Chapter 7"
-            }
-          },
-          {
-            "id": "056d7184c74aa7e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/cryptographic attacks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cryptographic attacks"
-            }
-          },
-          {
             "id": "a51fe5b89961d881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/SSL stripping.md",
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSL stripping"
+              "title": "Comptia Security+ Chapter 8"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,32 +224,32 @@
   },
   "active": "a51fe5b89961d881",
   "lastOpenFiles": [
-    "Definitions/SSL stripping.md",
+    "Definitions/Identity Provider IdP.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 8.md",
     "Definitions/cryptographic attacks.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 7.md",
-    "Definitions/trusted platform module TPM.md",
-    "Definitions/key exchange.md",
-    "Definitions/key stretching.md",
-    "Definitions/key escrow.md",
-    "Definitions/public key infrastructure PKI.md",
-    "Definitions/rainbow table attack.md",
-    "Definitions/downgrade attack.md",
-    "Definitions/birthday attack.md",
-    "Definitions/related key attack.md",
-    "Definitions/chosen plain text attack.md",
-    "Definitions/frequency analysis.md",
-    "Definitions/Hardware Security Modules HSM.md",
-    "Definitions/certificates.md",
-    "Definitions/certificate formats.md",
-    "Definitions/Distinguished Encoding Rules DER format.md",
-    "Definitions/Online Certificate Status Protocol OCSP.md",
-    "Definitions/certificate stapling.md",
-    "Definitions/certificate revocation.md",
-    "Definitions/certificate pinning.md",
-    "Definitions/certificate verification.md",
-    "Definitions/certificate enrolment.md",
-    "Definitions/registration authorities.md",
-    "Definitions/certificate authorities.md",
+    "Definitions/Single Sign-On SSO.md",
+    "Definitions/OpenID.md",
+    "Definitions/Security Assertions Markup Language SAML.md",
+    "Definitions/Open Authentication OAuth.md",
+    "Definitions/Lightweight Directory Access Protocol LDAP.md",
+    "Definitions/Kerberos.md",
+    "Definitions/Kerberos instance.md",
+    "Definitions/Kerberos primary.md",
+    "Definitions/Kerberos realm.md",
+    "Definitions/Terminal Access Controller Access Control System Plus TACACS+.md",
+    "Definitions/Remote Dial-In User Service RADIUS.md",
+    "Definitions/802.1X.md",
+    "Definitions/Challenge Handshake Authentication Protocol CHAP.md",
+    "Definitions/Extensible Authentication Protocol EAP.md",
+    "Definitions/claims to identity.md",
+    "Definitions/traits.md",
+    "Definitions/attributes.md",
+    "Definitions/4.6 Given a scenario, implement and maintain identity and access management..md",
+    "Definitions/user provisioning.md",
+    "Definitions/2.5 Explain the purpose of mitigation techniques used to secure the enterprise..md",
+    "Definitions/access control.md",
+    "Comptia Security+ Certification/1.2 Summarize fundamental security concepts..md",
     "stored",
     "attachments/Pasted image 20250422180814.png",
     "Definitions and Concepts",
