@@ -23,7 +23,8 @@ I have 2 years as a system administrator with two separate university degrees (m
 1. Read through a chapter in the [[Comptia Security+ study guide book]],
 2. View chapter content in [Professor Messer’s CompTIA SY0-701 Security+ Course - Professor Messer IT Certification Training Courses](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/). From other YouTuber's who have passed the exam, his course was highly recommended.
 3. Answer questions in the textbook study guide.
-4. Use flashcards to remember key concepts.
-5. Do any of the suggested labs in the textbook by spinning up a virtual machine.
-6. Anything in the activities mentioned below are extra activities on top of the aforementioned ones.
-7. Answer questions from all other studied chapters.
+### Other activities.
+Use flashcards to remember key concepts.
+Do any of the suggested labs in the textbook by spinning up a virtual machine.
+Anything in the activities mentioned below are extra activities on top of the aforementioned ones.
+Answer questions from all other studied chapters.
