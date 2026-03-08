@@ -1,0 +1,11 @@
+---
+tags:
+  - definition
+created: 03/02/2025
+aliases:
+---
+Availability is the concept of data accessible when a user requests it, as defined in [[Comptia Security+ Chapter 1]].
+
+When it comes to chapter 1, it describes backups as an answer to availability, when by it's own definition is wrong. Backups are immutable and inaccessible, meaning users cannot request to modify or access the data until a system administrator restores that backup to production.
+
+The leaves me with questions, what would backups be an answer too? Integrity? But would it fall under that category? Is integrity not focused on production data integrity? Backups themselves must be integral. Maybe there should be another category to the [[Confidentiality, Integrity, and Availability (CIA)]] triad (which there are some arguments to add more [[CIA Triad should be a different polygon?]]), such as data loss protection? Or some other word that would fit better.

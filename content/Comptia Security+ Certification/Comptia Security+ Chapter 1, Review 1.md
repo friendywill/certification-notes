@@ -1,40 +1,40 @@
 ---
 tags:
-  - domains
+  - review
   - chapters
-created: 
+  - practice
+created: 03/02/2025
 aliases:
 ---
-# Chapter Title
-
-### Related #domains:
-
-[[1.0 General Security Concepts 12%]]
-[[3.0 Security Architecture 18%]]
-[[5.0 Security Program Management and Oversight 20%]]
-### Related #sub-domains 
-
-[[1.1 Compare and contrast various types of security controls.]]
-[[1.2 Summarize fundamental security concepts.]]
-[[1.4 Explain the importance of using appropriate cryptographic solutions.]]
-[[3.3 Concepts and strategies to protect data.]]
-[[5.2 Explain elements of the risk management process.]]
-
-# Survey
-Think about what could be included.
-Read the introduction / summary.
-Glance over the different titles and sub-titles, turn them into questions.
-View visual aids and read their captions.
-# Questions
-While doing all of these steps, add questions. Ensure to answer on a separate page from the original questions.
-
 
 How does Comptia define [[cybersecurity]]?
+The practice of protecting technological information assets.
+
 How does Comptia define [[cybersecurity professionals]]?
+a person who is given responsibility for protection technological assets.
+
 How has today's cybersecurity professional evolved?
+Cyber security professionals now have many different specialisations and fields they can choose from, they are a much more integral part of any organisation, they have a lot more complexity to deal with, and they have to keep more up-to-date with the latest threats.
+
 What are the different [[cybersecurity objectives]] and how do fulfil the mission of security?
+The cybersecurity objectives are overarching goals to protect an organisation's technological information assets.
+They aim to fulfil the mission of security by providing a benchmark that an organisation must meet which is designed to secure it's information assets.
+
 How could organisations meet these [[cybersecurity objectives]]?
+By performing a risk analysis, then a gap analysis to determine the risks that require the most attention, then allocating time and resources to implement security controls with the goal of closing the gap to that objective.
+
 What are the different [[data breach risks]]? And what are the effects of these breaches?
+The different data breach risks include:
+- Financial data breach risk
+  Where a company suffers monetary loss due to some cyber security incident, and example would be an attack impersonating a fake bank website, that an unsuspecting employee enters in the company's credit card details.
+- Reputational damage
+  Where some stakeholders lose some or all trust in the company due to some cyber security incident. An example would be if a company had customer details stored and leaked, customers would think twice before purchasing from that company again.
+- Strategic risk
+
+- Operational
+
+- Compliance
+
 Who are the people causing fear of [[data breach risks]]?
 How are [[data breach risks]] caused?
 What is the [[DAD triad]]? How does it fulfil the goal it sets to achieve? What are the different types of [[cybersecurity risks]] and their respective [[cybersecurity risk impacts]]?
@@ -59,17 +59,3 @@ What is [[data minimisation]]?
 What are the different methods for [[data minimisation]] and how do they work?
 What are the two types of [[access restrictions]]?
 What is the different between [[segmentation]] and [[isolation]]?
-
-# Read
-Focus on answering the questions, come up with more as necessary.
-# Write
-Annotate thoughts and ideas
-Answer qeustions
-# Recite
-Go back over appropriate sections
-# Reflect
-How does this currently fit with what you know?
-How would you teach this to someone else?
-
-## Notes
-[[Availability]]
