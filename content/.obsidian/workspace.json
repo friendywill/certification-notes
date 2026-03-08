@@ -2188,7 +2188,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Comptia Security+ Certification/Comptia Security+ Chapter 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -2203,7 +2203,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Comptia Security+ Chapter 3"
             }
           }
         ],
@@ -2400,12 +2400,15 @@
   },
   "active": "019efa599dc2d99a",
   "lastOpenFiles": [
+    "Comptia Security+ Certification/Comptia Security+ Chapter 2.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 3.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 2, Review 1.md",
+    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
+    "index.md",
     "Definitions/security control categories.md",
     "Definitions/data protection.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1, Review 2.md",
     "Definitions/operational security control category.md",
-    "Comptia Security+ Certification/Comptia Security+ Chapter 1.md",
     "Comptia Security+ Certification/Comptia Security+ Plan.md",
     "Comptia Security+ Certification/Comptia Security+.md",
     "Comptia Security+ Certification/3.0 Security Architecture 18%.md",
@@ -2423,9 +2426,6 @@
     "Definitions/threat maps.md",
     "Definitions/closed source intelligence.md",
     "Definitions/OSINT data sources.md",
-    "Definitions/vulnerability database.md",
-    "Definitions/threat intelligence.md",
-    "Definitions/threat vectors.md",
     "Comptia Security+ Certification/Monologue",
     "Definitions",
     "attachments/Pasted image 20250130181104.png",

@@ -5,7 +5,7 @@ tags:
 created: 
 aliases:
 ---
-# Chapter Title
+# Cybersecurity Threat Landscape
 
 ### Related #domains:
 [[2.0 Threats, Vulnerabilities, and Mitigations 22%]]
