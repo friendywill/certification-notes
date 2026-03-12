@@ -221,8 +221,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -245,8 +245,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -258,6 +258,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -275,6 +276,7 @@
   "lastOpenFiles": [
     "index.md",
     "Comptia Security+ Certification/Review of content 17-11-2025.md",
+    "Definitions/[buffer overflow.md",
     "Definitions/To review.md",
     "Comptia Security+ Certification/Comptia Security+ Chapter 11.md",
     "Definitions/asset management.md",
@@ -298,7 +300,6 @@
     "Definitions/anti-malware.md",
     "Definitions/allows lists.md",
     "Definitions/block or deny lists.md",
-    "Definitions/sandboxing.md",
     "basic input",
     "attachments/Pasted image 20250525135404.png",
     "attachments/Pasted image 20250525134908.png",
